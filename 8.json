@@ -1,0 +1,3531 @@
+{
+    "pagination": {
+        "last_visible_page": 386,
+        "has_next_page": true,
+        "current_page": 1,
+        "items": {
+            "count": 25,
+            "total": 9641,
+            "per_page": 25
+        }
+    },
+    "data": [
+        {
+            "mal_id": 1,
+            "url": "https://myanimelist.net/manga/1/Monster",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/258224.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/258224t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/258224l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/258224.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/258224t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/258224l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Monster"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "MONSTER"
+                },
+                {
+                    "type": "English",
+                    "title": "Monster"
+                }
+            ],
+            "title": "Monster",
+            "title_english": "Monster",
+            "title_japanese": "MONSTER",
+            "title_synonyms": [],
+            "type": "Manga",
+            "chapters": 162,
+            "volumes": 18,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "1994-12-05T00:00:00+00:00",
+                "to": "2001-12-20T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 5,
+                        "month": 12,
+                        "year": 1994
+                    },
+                    "to": {
+                        "day": 20,
+                        "month": 12,
+                        "year": 2001
+                    }
+                },
+                "string": "Dec 5, 1994 to Dec 20, 2001"
+            },
+            "score": 9.15,
+            "scored": 9.15,
+            "scored_by": 95415,
+            "rank": 5,
+            "popularity": 29,
+            "members": 239614,
+            "favorites": 20758,
+            "synopsis": "Kenzou Tenma, a renowned Japanese neurosurgeon working in post-war Germany, faces a difficult choice: to operate on Johan Liebert, an orphan boy on the verge of death, or on the mayor of Düsseldorf. In the end, Tenma decides to gamble his reputation by saving Johan, effectively leaving the mayor for dead. As a consequence of his actions, hospital director Heinemann strips Tenma of his position, and Heinemann's daughter Eva breaks off their engagement. Disgraced and shunned by his colleagues, Tenma loses all hope of a successful career—that is, until the mysterious killing of Heinemann gives him another chance. Nine years later, Tenma is the head of the surgical department and close to becoming the director himself. Although all seems well for him at first, he soon becomes entangled in a chain of gruesome murders that have taken place throughout Germany. The culprit is a monster—the same one that Tenma saved on that fateful day nine years ago. [Written by MAL Rewrite]",
+            "background": "Monster won the Grand Prize at the 3rd annual Tezuka Osamu Cultural Prize in 1999, as well as the 46th Shogakukan Manga Award in the General category in 2000. The series was published in English by VIZ Media under the VIZ Signature imprint from February 21, 2006 to December 16, 2008, and again in 2-in-1 omnibuses (subtitled The Perfect Edition) from July 15, 2014 to July 19, 2016. The manga was also published in Brazilian Portuguese by Panini Comics/Planet Manga from June 2012 to April 2015, in Polish by Hanami from March 2014 to February 2017, in Spain by Planeta Cómic from June 16, 2009 to September 21, 2010, and in Argentina by LARP Editores.",
+            "authors": [
+                {
+                    "mal_id": 1867,
+                    "type": "people",
+                    "name": "Urasawa, Naoki",
+                    "url": "https://myanimelist.net/people/1867/Naoki_Urasawa"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 1,
+                    "type": "manga",
+                    "name": "Big Comic Original",
+                    "url": "https://myanimelist.net/manga/magazine/1/Big_Comic_Original"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 46,
+                    "type": "manga",
+                    "name": "Award Winning",
+                    "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 7,
+                    "type": "manga",
+                    "name": "Mystery",
+                    "url": "https://myanimelist.net/manga/genre/7/Mystery"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 50,
+                    "type": "manga",
+                    "name": "Adult Cast",
+                    "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+                },
+                {
+                    "mal_id": 40,
+                    "type": "manga",
+                    "name": "Psychological",
+                    "url": "https://myanimelist.net/manga/genre/40/Psychological"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 41,
+                    "type": "manga",
+                    "name": "Seinen",
+                    "url": "https://myanimelist.net/manga/genre/41/Seinen"
+                }
+            ]
+        },
+        {
+            "mal_id": 2,
+            "url": "https://myanimelist.net/manga/2/Berserk",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/157897.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/157897t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/157897l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/157897.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/157897t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/157897l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Berserk"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Berserk: The Prototype"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "ベルセルク"
+                },
+                {
+                    "type": "English",
+                    "title": "Berserk"
+                }
+            ],
+            "title": "Berserk",
+            "title_english": "Berserk",
+            "title_japanese": "ベルセルク",
+            "title_synonyms": [
+                "Berserk: The Prototype"
+            ],
+            "type": "Manga",
+            "chapters": null,
+            "volumes": null,
+            "status": "Publishing",
+            "publishing": true,
+            "published": {
+                "from": "1989-08-25T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 25,
+                        "month": 8,
+                        "year": 1989
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Aug 25, 1989 to ?"
+            },
+            "score": 9.47,
+            "scored": 9.47,
+            "scored_by": 336279,
+            "rank": 1,
+            "popularity": 1,
+            "members": 674606,
+            "favorites": 124103,
+            "synopsis": "Guts, a former mercenary now known as the \"Black Swordsman,\" is out for revenge. After a tumultuous childhood, he finally finds someone he respects and believes he can trust, only to have everything fall apart when this person takes away everything important to Guts for the purpose of fulfilling his own desires. Now marked for death, Guts becomes condemned to a fate in which he is relentlessly pursued by demonic beings. Setting out on a dreadful quest riddled with misfortune, Guts, armed with a massive sword and monstrous strength, will let nothing stop him, not even death itself, until he is finally able to take the head of the one who stripped him—and his loved one—of their humanity. [Written by MAL Rewrite] Included one-shot: Volume 14: Berserk: The Prototype",
+            "background": "Berserk won the Award for Excellence at the sixth installment of Tezuka Osamu Cultural Prize in 2002. The series has over 50 million copies in print worldwide and has been published in English by Dark Horse since November 4, 2003. It is also published in Italy, Germany, Spain, France, Brazil, South Korea, Hong Kong, Taiwan, Thailand, Poland, México and Turkey. In May 2021, the author Kentaro Miura suddenly died at the age of 54. Chapter 364 of Berserk was published posthumously on September 10, 2021. Miura would often share details about the series' story with his childhood friend and fellow mangaka Kouji Mori. Berserk resumed on June 24, 2022, with Studio Gaga handling the art and Kouji Mori's supervision.",
+            "authors": [
+                {
+                    "mal_id": 1868,
+                    "type": "people",
+                    "name": "Miura, Kentarou",
+                    "url": "https://myanimelist.net/people/1868/Kentarou_Miura"
+                },
+                {
+                    "mal_id": 49592,
+                    "type": "people",
+                    "name": "Studio Gaga",
+                    "url": "https://myanimelist.net/people/49592/Studio_Gaga"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 2,
+                    "type": "manga",
+                    "name": "Young Animal",
+                    "url": "https://myanimelist.net/manga/magazine/2/Young_Animal"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "manga",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/manga/genre/1/Action"
+                },
+                {
+                    "mal_id": 2,
+                    "type": "manga",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/manga/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 46,
+                    "type": "manga",
+                    "name": "Award Winning",
+                    "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "manga",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+                },
+                {
+                    "mal_id": 14,
+                    "type": "manga",
+                    "name": "Horror",
+                    "url": "https://myanimelist.net/manga/genre/14/Horror"
+                },
+                {
+                    "mal_id": 37,
+                    "type": "manga",
+                    "name": "Supernatural",
+                    "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 58,
+                    "type": "manga",
+                    "name": "Gore",
+                    "url": "https://myanimelist.net/manga/genre/58/Gore"
+                },
+                {
+                    "mal_id": 38,
+                    "type": "manga",
+                    "name": "Military",
+                    "url": "https://myanimelist.net/manga/genre/38/Military"
+                },
+                {
+                    "mal_id": 6,
+                    "type": "manga",
+                    "name": "Mythology",
+                    "url": "https://myanimelist.net/manga/genre/6/Mythology"
+                },
+                {
+                    "mal_id": 40,
+                    "type": "manga",
+                    "name": "Psychological",
+                    "url": "https://myanimelist.net/manga/genre/40/Psychological"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 41,
+                    "type": "manga",
+                    "name": "Seinen",
+                    "url": "https://myanimelist.net/manga/genre/41/Seinen"
+                }
+            ]
+        },
+        {
+            "mal_id": 3,
+            "url": "https://myanimelist.net/manga/3/20th_Century_Boys",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/5/260006.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/5/260006t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/5/260006l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/5/260006.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/5/260006t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/5/260006l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "20th Century Boys"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "20 Seiki Shounen"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Nijuu Seiki Shounen"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Nijuusseiki Shounen"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "20thCB"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "20世紀少年"
+                },
+                {
+                    "type": "English",
+                    "title": "20th Century Boys"
+                }
+            ],
+            "title": "20th Century Boys",
+            "title_english": "20th Century Boys",
+            "title_japanese": "20世紀少年",
+            "title_synonyms": [
+                "20 Seiki Shounen",
+                "Nijuu Seiki Shounen",
+                "Nijuusseiki Shounen",
+                "20thCB"
+            ],
+            "type": "Manga",
+            "chapters": 249,
+            "volumes": 22,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "1999-09-27T00:00:00+00:00",
+                "to": "2006-04-24T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 27,
+                        "month": 9,
+                        "year": 1999
+                    },
+                    "to": {
+                        "day": 24,
+                        "month": 4,
+                        "year": 2006
+                    }
+                },
+                "string": "Sep 27, 1999 to Apr 24, 2006"
+            },
+            "score": 8.95,
+            "scored": 8.95,
+            "scored_by": 87166,
+            "rank": 13,
+            "popularity": 27,
+            "members": 250746,
+            "favorites": 19574,
+            "synopsis": "As the 20th century approaches its end, people all over the world are anxious that the world is changing. And probably not for the better. Kenji Endo is a normal convenience store manager who's just trying to get by. But when he learns that one of his old friends going by the name \"Donkey\" has suddenly committed suicide, and that a new cult led by a figure known as \"Friend\" is becoming more notorious, Kenji starts to feel that something isn't right. With a few key clues left behind by his deceased friend, Kenji realizes that this cult is much more than he ever thought it would be—not only is this mysterious organization directly targeting him and his childhood friends, but the whole world also faces a grave danger that only the friends have the key to stop. Kenji's simple life of barely making ends meet is flipped upside down when he reunites with his childhood friends, and together they must figure out the truth of how their past is connected to the cult, as the turn of the century could mean the possible end of the world. [Written by MAL Rewrite]",
+            "background": "20th Century Boys won the Kodansha Manga Award in the general category in 2001, an Excellence Prize at the Japan Media Arts Festival in 2002, and the Shogakukan Manga Award in the general category in 2003. The series' combined storyline won the Grand Prize at the 37th Japan Cartoonist Awards on May 9, 2008. VIZ Media published the series in English under the VIZ Signature imprint from February 17, 2009 to September 18, 2012. VIZ Media licensed the series in 2005; however, at Urasawa's request, it was rescheduled for release after Monster finished its English publication due to a change in art style over time. The series has also been published in Brazilian Portuguese by Panini Comics/Planet Manga since September 2012. The series was adapted into a trilogy of live-action films which released in Japan between August 30, 2008 and August 29, 2009.",
+            "authors": [
+                {
+                    "mal_id": 1867,
+                    "type": "people",
+                    "name": "Urasawa, Naoki",
+                    "url": "https://myanimelist.net/people/1867/Naoki_Urasawa"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 3,
+                    "type": "manga",
+                    "name": "Big Comic Spirits",
+                    "url": "https://myanimelist.net/manga/magazine/3/Big_Comic_Spirits"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 46,
+                    "type": "manga",
+                    "name": "Award Winning",
+                    "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 7,
+                    "type": "manga",
+                    "name": "Mystery",
+                    "url": "https://myanimelist.net/manga/genre/7/Mystery"
+                },
+                {
+                    "mal_id": 24,
+                    "type": "manga",
+                    "name": "Sci-Fi",
+                    "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 13,
+                    "type": "manga",
+                    "name": "Historical",
+                    "url": "https://myanimelist.net/manga/genre/13/Historical"
+                },
+                {
+                    "mal_id": 40,
+                    "type": "manga",
+                    "name": "Psychological",
+                    "url": "https://myanimelist.net/manga/genre/40/Psychological"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 41,
+                    "type": "manga",
+                    "name": "Seinen",
+                    "url": "https://myanimelist.net/manga/genre/41/Seinen"
+                }
+            ]
+        },
+        {
+            "mal_id": 4,
+            "url": "https://myanimelist.net/manga/4/Yokohama_Kaidashi_Kikou",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/171813.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/171813t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/171813l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/171813.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/171813t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/171813l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Yokohama Kaidashi Kikou"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Yokohama Shopping Log"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Yokohama Shopping Trip"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Touge"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "ヨコハマ買い出し紀行"
+                },
+                {
+                    "type": "English",
+                    "title": "Yokohama Kaidashi Kikou"
+                },
+                {
+                    "type": "French",
+                    "title": "Escale à Yokohama"
+                }
+            ],
+            "title": "Yokohama Kaidashi Kikou",
+            "title_english": "Yokohama Kaidashi Kikou",
+            "title_japanese": "ヨコハマ買い出し紀行",
+            "title_synonyms": [
+                "Yokohama Shopping Log",
+                "Yokohama Shopping Trip",
+                "Touge"
+            ],
+            "type": "Manga",
+            "chapters": 142,
+            "volumes": 14,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "1994-04-25T00:00:00+00:00",
+                "to": "2006-02-25T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 25,
+                        "month": 4,
+                        "year": 1994
+                    },
+                    "to": {
+                        "day": 25,
+                        "month": 2,
+                        "year": 2006
+                    }
+                },
+                "string": "Apr 25, 1994 to Feb 25, 2006"
+            },
+            "score": 8.67,
+            "scored": 8.67,
+            "scored_by": 18374,
+            "rank": 54,
+            "popularity": 205,
+            "members": 73081,
+            "favorites": 5067,
+            "synopsis": "In a post-apocalyptic world where an environmental disaster led to the eruption of Mt. Fuji and the inundation of Yokohama, the age of humans is in its twilight. Alpha Hatsuseno is an android and the namesake of a small cafe outside Yokohama. As her owner is away on a trip indefinitely, she has been left responsible for running the cafe. Although she rarely gets any customers, Alpha remains outgoing and cheerful. While Alpha awaits her owner's homecoming, she explores the vicinity with her scooter and camera. Throughout her journeys, she meets new people and other androids, making memories along the way. Yokohama Kaidashi Kikou is a beautiful, laid-back story centered around Alpha's daily activities, emphasizing the passing of time in everyday life. [Written by MAL Rewrite]",
+            "background": "Yokohama Kaidashi Kikou won the Seiun Award for Best Manga in 2007. Three drama CDs were released in 2002. In all three, Alpha is voiced by Hekiru Shiina and Kokone by Akiko Nakagawa, both of whom voiced the same characters in the two OVA series. The series has been published in English by Seven Seas Entertainment as omnibus volumes since August 9, 2022.",
+            "authors": [
+                {
+                    "mal_id": 1869,
+                    "type": "people",
+                    "name": "Ashinano, Hitoshi",
+                    "url": "https://myanimelist.net/people/1869/Hitoshi_Ashinano"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Afternoon",
+                    "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 46,
+                    "type": "manga",
+                    "name": "Award Winning",
+                    "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 24,
+                    "type": "manga",
+                    "name": "Sci-Fi",
+                    "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+                },
+                {
+                    "mal_id": 36,
+                    "type": "manga",
+                    "name": "Slice of Life",
+                    "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 63,
+                    "type": "manga",
+                    "name": "Iyashikei",
+                    "url": "https://myanimelist.net/manga/genre/63/Iyashikei"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 41,
+                    "type": "manga",
+                    "name": "Seinen",
+                    "url": "https://myanimelist.net/manga/genre/41/Seinen"
+                }
+            ]
+        },
+        {
+            "mal_id": 8,
+            "url": "https://myanimelist.net/manga/8/Full_Moon_wo_Sagashite",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/175970.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/175970t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/175970l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/175970.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/175970t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/175970l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Full Moon wo Sagashite"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Searching for the Full Moon"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Ginyuu Meika"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Mangetsu wo Sagashite"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "満月〈フルムーン〉をさがして"
+                },
+                {
+                    "type": "English",
+                    "title": "Full Moon wo Sagashite"
+                },
+                {
+                    "type": "German",
+                    "title": "Fullmoon wo Sagashite"
+                },
+                {
+                    "type": "Spanish",
+                    "title": "FullMoon"
+                },
+                {
+                    "type": "French",
+                    "title": "Full Moon: À la Recherche de la Pleine Lune"
+                }
+            ],
+            "title": "Full Moon wo Sagashite",
+            "title_english": "Full Moon wo Sagashite",
+            "title_japanese": "満月〈フルムーン〉をさがして",
+            "title_synonyms": [
+                "Searching for the Full Moon",
+                "Ginyuu Meika",
+                "Mangetsu wo Sagashite"
+            ],
+            "type": "Manga",
+            "chapters": 35,
+            "volumes": 7,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2001-12-01T00:00:00+00:00",
+                "to": "2004-04-30T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2001
+                    },
+                    "to": {
+                        "day": 30,
+                        "month": 4,
+                        "year": 2004
+                    }
+                },
+                "string": "Dec 1, 2001 to Apr 30, 2004"
+            },
+            "score": 8.04,
+            "scored": 8.04,
+            "scored_by": 18599,
+            "rank": 665,
+            "popularity": 452,
+            "members": 37327,
+            "favorites": 1912,
+            "synopsis": "At the tender age of twelve, Mitsuki Kouyama has a sarcoma in her throat. Though this rare cancer can be cured by removing her vocal cords, Mitsuki refuses because of her desire to become a pop singer and keep her childhood promise to Eichi Sakurai, her first love who left for America. Unable to both heal and keep her voice, she allows her health to deteriorate as she accepts her tragic fate. One day, while escaping the home of her music-hating grandmother to attend an audition, Mitsuki meets two shinigami Takuto Kira and Meroko Yui. Realizing that Mitsuki can see them, Takuto and Meroko reveal to her that she will die in a year. Moved by her plight, Takuto allows Mitsuki the chance to pursue her dream by giving her the ability to transform into a healthy sixteen-year-old girl. After being chosen for a contract with Seed Records, Mitsuki makes her debut under the stage name Full Moon and chooses to pursue her dream music career before her life's end. [Written by MAL Rewrite] Included one-shot: Volume 2: Ginyuu Meika",
+            "background": "Full Moon wo Sagashite was published in English by VIZ Media under the Shojo Beat imprint from July 5, 2005 to October 3, 2006; and in Spanish by Glénat from October 2006 to April 2007.",
+            "authors": [
+                {
+                    "mal_id": 1878,
+                    "type": "people",
+                    "name": "Tanemura, Arina",
+                    "url": "https://myanimelist.net/people/1878/Arina_Tanemura"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 9,
+                    "type": "manga",
+                    "name": "Ribon Magazine",
+                    "url": "https://myanimelist.net/manga/magazine/9/Ribon_Magazine"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "manga",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                },
+                {
+                    "mal_id": 37,
+                    "type": "manga",
+                    "name": "Supernatural",
+                    "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 19,
+                    "type": "manga",
+                    "name": "Music",
+                    "url": "https://myanimelist.net/manga/genre/19/Music"
+                },
+                {
+                    "mal_id": 76,
+                    "type": "manga",
+                    "name": "Showbiz",
+                    "url": "https://myanimelist.net/manga/genre/76/Showbiz"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 25,
+                    "type": "manga",
+                    "name": "Shoujo",
+                    "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+                }
+            ]
+        },
+        {
+            "mal_id": 9,
+            "url": "https://myanimelist.net/manga/9/Tsubasa__RESERVoir_CHRoNiCLE",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/272410.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/272410t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/272410l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/272410.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/272410t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/272410l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Tsubasa: RESERVoir CHRoNiCLE"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "TRC"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "ツバサ -RESERVoir CHRoNiCLE-"
+                },
+                {
+                    "type": "English",
+                    "title": "Tsubasa: RESERVoir CHRoNiCLE"
+                }
+            ],
+            "title": "Tsubasa: RESERVoir CHRoNiCLE",
+            "title_english": "Tsubasa: RESERVoir CHRoNiCLE",
+            "title_japanese": "ツバサ -RESERVoir CHRoNiCLE-",
+            "title_synonyms": [
+                "TRC"
+            ],
+            "type": "Manga",
+            "chapters": 233,
+            "volumes": 28,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2003-05-21T00:00:00+00:00",
+                "to": "2009-10-07T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 21,
+                        "month": 5,
+                        "year": 2003
+                    },
+                    "to": {
+                        "day": 7,
+                        "month": 10,
+                        "year": 2009
+                    }
+                },
+                "string": "May 21, 2003 to Oct 7, 2009"
+            },
+            "score": 8.3,
+            "scored": 8.3,
+            "scored_by": 36724,
+            "rank": 294,
+            "popularity": 189,
+            "members": 79094,
+            "favorites": 6202,
+            "synopsis": "Warmhearted Syaoran has always been friends with Sakura—the princess of the Clow Kingdom who holds an extraordinary power capable of changing the world. When a mysterious man attempts to monopolize Sakura's ability, her memories scatter throughout different worlds in the form of feathers. To save Sakura, Syaoran seeks help from the Dimensional Witch and meets two other travelers—Kurogane and Fai D. Flourite. Kurogane, a capable fighter and ninja, has been banished from his homeworld and wishes to return. In contrast, Fai, a magician from Celes, wants to traverse different worlds to avoid his home and past. As the price to cross dimensions, each of the three must sacrifice their most valued possession. For Sakura's sake, Syaoran agrees to give away their relationship as payment to the Dimensional Witch. And with firm determination, Syaoran, Kurogane, and Fai begin journeying through numerous worlds to fight against their ill-fated destinies. [Written by MAL Rewrite]",
+            "background": "Tsubasa: RESERVoir CHRoNiCLE was published in English by Del Rey from April 27, 2004 to November 23, 2010. Kodansha Comics USA republished the series in 10 omnibuses from August 19, 2014 to October 18, 2016.",
+            "authors": [
+                {
+                    "mal_id": 1877,
+                    "type": "people",
+                    "name": "CLAMP",
+                    "url": "https://myanimelist.net/people/1877/CLAMP"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Shounen Magazine (Weekly)",
+                    "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "manga",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/manga/genre/1/Action"
+                },
+                {
+                    "mal_id": 2,
+                    "type": "manga",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/manga/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "manga",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 27,
+                    "type": "manga",
+                    "name": "Shounen",
+                    "url": "https://myanimelist.net/manga/genre/27/Shounen"
+                }
+            ]
+        },
+        {
+            "mal_id": 10,
+            "url": "https://myanimelist.net/manga/10/xxxHOLiC",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/217533.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/217533t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/217533l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/217533.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/217533t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/217533l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "xxxHOLiC"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "xxxHolic Rou"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "xxxHolic Cage"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "xxxHOLiC"
+                },
+                {
+                    "type": "English",
+                    "title": "xxxHOLiC"
+                }
+            ],
+            "title": "xxxHOLiC",
+            "title_english": "xxxHOLiC",
+            "title_japanese": "xxxHOLiC",
+            "title_synonyms": [
+                "xxxHolic Rou",
+                "xxxHolic Cage"
+            ],
+            "type": "Manga",
+            "chapters": 213,
+            "volumes": 19,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2003-02-24T00:00:00+00:00",
+                "to": "2011-02-09T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 24,
+                        "month": 2,
+                        "year": 2003
+                    },
+                    "to": {
+                        "day": 9,
+                        "month": 2,
+                        "year": 2011
+                    }
+                },
+                "string": "Feb 24, 2003 to Feb 9, 2011"
+            },
+            "score": 8.37,
+            "scored": 8.37,
+            "scored_by": 32032,
+            "rank": 232,
+            "popularity": 178,
+            "members": 82210,
+            "favorites": 5030,
+            "synopsis": "Living alone after his parents passed away, Kimihiro Watanuki is a high school student who can see otherworldly creatures that are attracted to him. His days are plagued by these nuisances, and he wishes to rid himself of this inconvenience. One fateful day, as Kimihiro is being chased by a horde of spirits, his feet bring him into a mysterious store to seek shelter. Here he meets Yuuko Ichihara, the mistress of this supposed store, who claims to be able to grant wishes. Yuuko offers to grant Kimihiro's, as long as he pays an appropriate price. Thus begins Kimihiro's time working in her store to earn the payment necessary for his wish. In Yuuko's employ, he must become further involved with spirits and the supernatural before he can leave that world behind. How will he fare in the inexplicable encounters that await him? [Written by MAL Rewrite]",
+            "background": "xxxHOLiC was previously serialized in Young Magazine, but moved to in June 2010. The series was released in English by the now defunct Del Rey from April 27, 2004 to February 21, 2012. Kodansha Comics USA has republished the series in an omnibus edition from March 18, 2014 to September 8, 2015 the final two volumes were 2-in-1, while the previous were all 3-in-1. It was also published in Spanish by Norma Editorial from July 2004 to October 2011.",
+            "authors": [
+                {
+                    "mal_id": 1877,
+                    "type": "people",
+                    "name": "CLAMP",
+                    "url": "https://myanimelist.net/people/1877/CLAMP"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 10,
+                    "type": "manga",
+                    "name": "Young Magazine (Weekly)",
+                    "url": "https://myanimelist.net/manga/magazine/10/Young_Magazine_Weekly"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 7,
+                    "type": "manga",
+                    "name": "Mystery",
+                    "url": "https://myanimelist.net/manga/genre/7/Mystery"
+                },
+                {
+                    "mal_id": 37,
+                    "type": "manga",
+                    "name": "Supernatural",
+                    "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 41,
+                    "type": "manga",
+                    "name": "Seinen",
+                    "url": "https://myanimelist.net/manga/genre/41/Seinen"
+                }
+            ]
+        },
+        {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/manga/17/Kareshi_Kanojo_no_Jijou",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/267780.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/267780t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/267780l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/267780.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/267780t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/267780l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Kareshi Kanojo no Jijou"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "His and Hers"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Tiger and the Chameleon: A Promise for One Week"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Ashita Mata Mori de Aou ne"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Meet Me Again Tomorrow in the Forest"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "KKNJ"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Abareru Ousama"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Raging King"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "彼氏彼女の事情"
+                },
+                {
+                    "type": "English",
+                    "title": "Kare Kano: His and Her Circumstances"
+                }
+            ],
+            "title": "Kareshi Kanojo no Jijou",
+            "title_english": "Kare Kano: His and Her Circumstances",
+            "title_japanese": "彼氏彼女の事情",
+            "title_synonyms": [
+                "His and Hers",
+                "The Tiger and the Chameleon: A Promise for One Week",
+                "Ashita Mata Mori de Aou ne",
+                "Meet Me Again Tomorrow in the Forest",
+                "KKNJ",
+                "Abareru Ousama",
+                "The Raging King"
+            ],
+            "type": "Manga",
+            "chapters": 108,
+            "volumes": 21,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "1995-12-22T00:00:00+00:00",
+                "to": "2005-05-10T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 22,
+                        "month": 12,
+                        "year": 1995
+                    },
+                    "to": {
+                        "day": 10,
+                        "month": 5,
+                        "year": 2005
+                    }
+                },
+                "string": "Dec 22, 1995 to May 10, 2005"
+            },
+            "score": 8.16,
+            "scored": 8.16,
+            "scored_by": 14087,
+            "rank": 471,
+            "popularity": 442,
+            "members": 38160,
+            "favorites": 1611,
+            "synopsis": "Yukino Miyazawa is the perfect model student. Pretty, kind, good at sports, always at the top of her class. But she's not all that she seems. It's all an act of deception; she is really the self-confessed 'queen of vanity,' and her only goal in life is winning the praise and admiration of everyone around her. When she enters high school, she finally meets her match: Souichirou Arima, a handsome, athletic, popular, and very intelligent young boy. Ever since he stole the top seat in the class from her, Yukino has hated him, and has been plotting on how to take back her former place as the object of all other students' admiration. What she wasn't expecting, however, was that Souichirou, the very boy she hated, would confess his love for her. Or that he would find out about her deception—and use it to blackmail her! Together, they discover that they have more in common than they knew, and they slowly begin to bring out each other's inner selves. (Source: MU) Included one-shots: Volume 1: Tora to Chameleon: Yakusoku wa Isshukan (The Tiger and the Chameleon: A Promise for One Week) Volume 4: Ashita Mata Mori de Aou ne (Meet Me Again Tomorrow in the Forest) Volume 8: Abareru Ousama (The Raging King)",
+            "background": "Kareshi Kanojo no Jijou was published in English as Kare Kano: His and Her Circumstances by TokyoPop from January 21, 2003 to January 9, 2007.",
+            "authors": [
+                {
+                    "mal_id": 1885,
+                    "type": "people",
+                    "name": "Tsuda, Masami",
+                    "url": "https://myanimelist.net/people/1885/Masami_Tsuda"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 11,
+                    "type": "manga",
+                    "name": "LaLa",
+                    "url": "https://myanimelist.net/manga/magazine/11/LaLa"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 23,
+                    "type": "manga",
+                    "name": "School",
+                    "url": "https://myanimelist.net/manga/genre/23/School"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 25,
+                    "type": "manga",
+                    "name": "Shoujo",
+                    "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+                }
+            ]
+        },
+        {
+            "mal_id": 18,
+            "url": "https://myanimelist.net/manga/18/Kodomo_no_Omocha",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/267715.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/267715t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/267715l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/267715.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/267715t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/267715l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Kodomo no Omocha"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Child's Toy"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "こどものおもちゃ"
+                },
+                {
+                    "type": "English",
+                    "title": "Kodocha: Sana's Stage"
+                }
+            ],
+            "title": "Kodomo no Omocha",
+            "title_english": "Kodocha: Sana's Stage",
+            "title_japanese": "こどものおもちゃ",
+            "title_synonyms": [
+                "Child's Toy"
+            ],
+            "type": "Manga",
+            "chapters": 54,
+            "volumes": 10,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "1994-07-02T00:00:00+00:00",
+                "to": "1998-10-03T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 2,
+                        "month": 7,
+                        "year": 1994
+                    },
+                    "to": {
+                        "day": 3,
+                        "month": 10,
+                        "year": 1998
+                    }
+                },
+                "string": "Jul 2, 1994 to Oct 3, 1998"
+            },
+            "score": 8.3,
+            "scored": 8.3,
+            "scored_by": 10291,
+            "rank": 294,
+            "popularity": 799,
+            "members": 22053,
+            "favorites": 1158,
+            "synopsis": "Sana Kurata, a child actress, faces many problems in her classroom, including a major one - her bullying classmate, Akito Hayama. Sana's outgoing and friendly nature leads her to work towards correcting all of the problems around her. Her 'meddling' irritates Hayama but at the same time captivates him, just as Hayama's gloomy nature irritates Sana and compels her to change him. As these two opposites attract each other, they face many hardships which bring them closer to a mutual understanding. (Source: ANN)",
+            "background": "Kodomo no Omocha was published in English as Kodocha: Sana's Stage by Tokyopop from June 11, 2002 to November 11, 2003.",
+            "authors": [
+                {
+                    "mal_id": 1884,
+                    "type": "people",
+                    "name": "Obana, Miho",
+                    "url": "https://myanimelist.net/people/1884/Miho_Obana"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 9,
+                    "type": "manga",
+                    "name": "Ribon Magazine",
+                    "url": "https://myanimelist.net/manga/magazine/9/Ribon_Magazine"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 46,
+                    "type": "manga",
+                    "name": "Award Winning",
+                    "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                },
+                {
+                    "mal_id": 36,
+                    "type": "manga",
+                    "name": "Slice of Life",
+                    "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 64,
+                    "type": "manga",
+                    "name": "Love Polygon",
+                    "url": "https://myanimelist.net/manga/genre/64/Love_Polygon"
+                },
+                {
+                    "mal_id": 23,
+                    "type": "manga",
+                    "name": "School",
+                    "url": "https://myanimelist.net/manga/genre/23/School"
+                },
+                {
+                    "mal_id": 76,
+                    "type": "manga",
+                    "name": "Showbiz",
+                    "url": "https://myanimelist.net/manga/genre/76/Showbiz"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 25,
+                    "type": "manga",
+                    "name": "Shoujo",
+                    "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+                }
+            ]
+        },
+        {
+            "mal_id": 19,
+            "url": "https://myanimelist.net/manga/19/GetBackers",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/169369.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/169369t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/169369l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/169369.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/169369t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/169369l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "GetBackers"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Get Backers: Dakkan-ya"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "GetBackers -奪還屋-"
+                },
+                {
+                    "type": "English",
+                    "title": "GetBackers"
+                }
+            ],
+            "title": "GetBackers",
+            "title_english": "GetBackers",
+            "title_japanese": "GetBackers -奪還屋-",
+            "title_synonyms": [
+                "Get Backers: Dakkan-ya"
+            ],
+            "type": "Manga",
+            "chapters": 344,
+            "volumes": 39,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "1999-03-24T00:00:00+00:00",
+                "to": "2007-02-21T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 24,
+                        "month": 3,
+                        "year": 1999
+                    },
+                    "to": {
+                        "day": 21,
+                        "month": 2,
+                        "year": 2007
+                    }
+                },
+                "string": "Mar 24, 1999 to Feb 21, 2007"
+            },
+            "score": 7.62,
+            "scored": 7.62,
+            "scored_by": 5547,
+            "rank": 2086,
+            "popularity": 1297,
+            "members": 14602,
+            "favorites": 400,
+            "synopsis": "Blonde, hip, pragmatic and cool, Ginji Amano has the power to generate currents with his body like an electric eel. Brunette, equally hip, bespectacled and rambunctious, Ban Mido has the mystically mysterious 'Evil Eye,' the power to create illusions in the minds of his foes. Together, they are the GetBackers, the best retrieval team in the world. They can get back anything taken from clients, and their success rate is (almost) 100%! However, first they have to get some clients—and soon—or this spry detective duo will starve on the streets! (Source: TokyoPop)",
+            "background": "GetBackers was published in English by Tokyopop for 28 volumes from February 10, 2004 to March 10, 2009 until their license with Kodansha expired.",
+            "authors": [
+                {
+                    "mal_id": 1886,
+                    "type": "people",
+                    "name": "Kibayashi, Shin",
+                    "url": "https://myanimelist.net/people/1886/Shin_Kibayashi"
+                },
+                {
+                    "mal_id": 1887,
+                    "type": "people",
+                    "name": "Ayamine, Rando",
+                    "url": "https://myanimelist.net/people/1887/Rando_Ayamine"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Shounen Magazine (Weekly)",
+                    "url": "https://myanimelist.net/manga/magazine/8/Shounen_Magazine_Weekly"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "manga",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/manga/genre/1/Action"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 7,
+                    "type": "manga",
+                    "name": "Mystery",
+                    "url": "https://myanimelist.net/manga/genre/7/Mystery"
+                },
+                {
+                    "mal_id": 37,
+                    "type": "manga",
+                    "name": "Supernatural",
+                    "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+                },
+                {
+                    "mal_id": 9,
+                    "type": "manga",
+                    "name": "Ecchi",
+                    "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 27,
+                    "type": "manga",
+                    "name": "Shounen",
+                    "url": "https://myanimelist.net/manga/genre/27/Shounen"
+                }
+            ]
+        },
+        {
+            "mal_id": 20,
+            "url": "https://myanimelist.net/manga/20/Hikaru_no_Go",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/170574.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/170574t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/170574l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/170574.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/170574t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/170574l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Hikaru no Go"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "ヒカルの碁"
+                },
+                {
+                    "type": "English",
+                    "title": "Hikaru no Go"
+                }
+            ],
+            "title": "Hikaru no Go",
+            "title_english": "Hikaru no Go",
+            "title_japanese": "ヒカルの碁",
+            "title_synonyms": [],
+            "type": "Manga",
+            "chapters": 198,
+            "volumes": 23,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "1998-12-08T00:00:00+00:00",
+                "to": "2003-07-14T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 8,
+                        "month": 12,
+                        "year": 1998
+                    },
+                    "to": {
+                        "day": 14,
+                        "month": 7,
+                        "year": 2003
+                    }
+                },
+                "string": "Dec 8, 1998 to Jul 14, 2003"
+            },
+            "score": 8.12,
+            "scored": 8.12,
+            "scored_by": 22321,
+            "rank": 528,
+            "popularity": 358,
+            "members": 45629,
+            "favorites": 1981,
+            "synopsis": "When Hikaru Shindou discovers an old go board in his grandfather's attic, he is greeted by the spirit of an ancient go master, Fujiwara no Sai. Sai spent his life teaching the techniques of the board game to an emperor during the Heian era, and now in his ghostly state, he is eager to share his passion with the unsuspecting Hikaru. The only problem is that Hikaru is not all that interested in board games. But Sai is not easily dissuaded. Pressured by Sai's unrelenting desire to pursue something he refers to as the \"Divine Move,\" Hikaru begrudgingly consents to playing the game, executing moves as dictated by Sai. But slowly, intrigued by the dedication of his peers, he begins to learn the basics of the game. As Hikaru enters into the world of go, guided by his intangible tutor and inspired by his rival, Akira Touya, he cannot help but be drawn into the complex game as he grows determined to prove his own abilities. In a coming-of-age story centering around an ancient board game, Hikaru no Go tells the story of a boy maturing through the pursuit of his newfound passion. [Written by MAL Rewrite]",
+            "background": "Hikaru no Go won the 45th Shogakukan Manga Award for the shounen category in 2000. The series was published in English by VIZ Media under the Shonen Jump imprint from May 19, 2004 to May 3, 2011 and also digitally from March 19, 2012 to January 8, 2013.",
+            "authors": [
+                {
+                    "mal_id": 1888,
+                    "type": "people",
+                    "name": "Obata, Takeshi",
+                    "url": "https://myanimelist.net/people/1888/Takeshi_Obata"
+                },
+                {
+                    "mal_id": 1889,
+                    "type": "people",
+                    "name": "Hotta, Yumi",
+                    "url": "https://myanimelist.net/people/1889/Yumi_Hotta"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 83,
+                    "type": "manga",
+                    "name": "Shounen Jump (Weekly)",
+                    "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 46,
+                    "type": "manga",
+                    "name": "Award Winning",
+                    "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 37,
+                    "type": "manga",
+                    "name": "Supernatural",
+                    "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 11,
+                    "type": "manga",
+                    "name": "Strategy Game",
+                    "url": "https://myanimelist.net/manga/genre/11/Strategy_Game"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 27,
+                    "type": "manga",
+                    "name": "Shounen",
+                    "url": "https://myanimelist.net/manga/genre/27/Shounen"
+                }
+            ]
+        },
+        {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/manga/22/Rurouni_Kenshin__Meiji_Kenkaku_Romantan",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/127583.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/127583t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/127583l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/127583.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/127583t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/127583l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Samurai X"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Sengoku no Mikazuki"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Crescent Moon in the Warring States"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Crescent Moon Over a Country At War"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Meteor Strike"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "るろうに剣心 -明治剣客浪漫譚-"
+                },
+                {
+                    "type": "English",
+                    "title": "Rurouni Kenshin: Meiji Swordsman Romantic Story"
+                }
+            ],
+            "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+            "title_english": "Rurouni Kenshin: Meiji Swordsman Romantic Story",
+            "title_japanese": "るろうに剣心 -明治剣客浪漫譚-",
+            "title_synonyms": [
+                "Samurai X",
+                "Sengoku no Mikazuki",
+                "Crescent Moon in the Warring States",
+                "Crescent Moon Over a Country At War",
+                "Meteor Strike"
+            ],
+            "type": "Manga",
+            "chapters": 259,
+            "volumes": 28,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "1994-04-12T00:00:00+00:00",
+                "to": "1999-09-21T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 12,
+                        "month": 4,
+                        "year": 1994
+                    },
+                    "to": {
+                        "day": 21,
+                        "month": 9,
+                        "year": 1999
+                    }
+                },
+                "string": "Apr 12, 1994 to Sep 21, 1999"
+            },
+            "score": 8.56,
+            "scored": 8.56,
+            "scored_by": 47231,
+            "rank": 104,
+            "popularity": 139,
+            "members": 96718,
+            "favorites": 7243,
+            "synopsis": "Ten years have passed since the end of Bakumatsu, an era of war that saw the uprising of citizens against the Tokugawa shogunate. The revolutionaries wanted to create a time of peace, and a thriving country free from oppression. The new age of Meiji has come, but peace has not yet been achieved. Swords are banned but people are still murdered in the streets. Orphans of war veterans are left with nowhere to go, while the government seems content to just line their pockets with money. One wandering samurai, Kenshin Himura, still works to make sure the values he fought for are worth the lives spent to bring about the new era. Once known as Hitokiri Battousai, he was feared as the most ruthless killer of all the revolutionaries. Now haunted by guilt, Kenshin has sworn never to kill again in atonement for the lives he took, and he may never know peace until killing is a thing of the past. Now in the 11th year of Meiji, Kenshin stumbles upon Kaoru Kamiya, owner and head instructor of a small dojo being threatened to close its doors. The police force is powerless to stop the string of murders done in the name of her dojo by a man claiming to be the famous Battousai. Kenshin's wanderings pause for now as he joins Kaoru to clear both their names. But how long can he stay before his past catches up to him? [Written by MAL Rewrite] Included one-shot: Volume 28: Meteor Strike",
+            "background": "Rurouni Kenshin: Meiji Kenkaku Romantan was published in English as Rurouni Kenshin by VIZ Media under the Shonen Jump imprint from December 23, 2003 to July 5, 2006 and again in 3-in-1 omnibus edition under Shonen Jump VIZBIG imprint from January 29, 2008 to March 16, 2010. The publisher has been releasing the series in 3-in-1 omnibuses since January 3, 2017.",
+            "authors": [
+                {
+                    "mal_id": 1890,
+                    "type": "people",
+                    "name": "Watsuki, Nobuhiro",
+                    "url": "https://myanimelist.net/people/1890/Nobuhiro_Watsuki"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 83,
+                    "type": "manga",
+                    "name": "Shounen Jump (Weekly)",
+                    "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "manga",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/manga/genre/1/Action"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 13,
+                    "type": "manga",
+                    "name": "Historical",
+                    "url": "https://myanimelist.net/manga/genre/13/Historical"
+                },
+                {
+                    "mal_id": 21,
+                    "type": "manga",
+                    "name": "Samurai",
+                    "url": "https://myanimelist.net/manga/genre/21/Samurai"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 27,
+                    "type": "manga",
+                    "name": "Shounen",
+                    "url": "https://myanimelist.net/manga/genre/27/Shounen"
+                }
+            ]
+        },
+        {
+            "mal_id": 25,
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/243675.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/243675t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/243675l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/243675.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/243675t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/243675l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Fullmetal Alchemist"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Full Metal Alchemist"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Hagane no Renkinjutsushi"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "FMA"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "HagaRen"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Fullmetal Alchemist Gaiden"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "鋼の錬金術師"
+                },
+                {
+                    "type": "English",
+                    "title": "Fullmetal Alchemist"
+                }
+            ],
+            "title": "Fullmetal Alchemist",
+            "title_english": "Fullmetal Alchemist",
+            "title_japanese": "鋼の錬金術師",
+            "title_synonyms": [
+                "Full Metal Alchemist",
+                "Hagane no Renkinjutsushi",
+                "FMA",
+                "HagaRen",
+                "Fullmetal Alchemist Gaiden"
+            ],
+            "type": "Manga",
+            "chapters": 116,
+            "volumes": 27,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2001-07-12T00:00:00+00:00",
+                "to": "2010-09-11T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 12,
+                        "month": 7,
+                        "year": 2001
+                    },
+                    "to": {
+                        "day": 11,
+                        "month": 9,
+                        "year": 2010
+                    }
+                },
+                "string": "Jul 12, 2001 to Sep 11, 2010"
+            },
+            "score": 9.03,
+            "scored": 9.03,
+            "scored_by": 156073,
+            "rank": 8,
+            "popularity": 20,
+            "members": 290463,
+            "favorites": 30036,
+            "synopsis": "Alchemists are knowledgeable and naturally talented individuals who can manipulate and modify matter due to their art. Yet despite the wide range of possibilities, alchemy is not as all-powerful as most would believe. Human transmutation is strictly forbidden, and whoever attempts it risks severe consequences. Even so, siblings Edward and Alphonse Elric decide to ignore this great taboo and bring their mother back to life. Unfortunately, not only do they fail in resurrecting her, they also pay an extremely high price for their arrogance: Edward loses his left leg and Alphonse his entire body. Furthermore, Edward also gives up his right arm in order to seal his brother's soul into a suit of armor. Years later, the young alchemists travel across the country looking for the Philosopher's Stone, in the hopes of recovering their old bodies with its power. However, their quest for the fated stone also leads them to unravel far darker secrets than they could ever imagine. [Written by MAL Rewrite]",
+            "background": "Hagane no Renkinjutsushi won the 49th Shogakukan Manga Award for the shounen demographic in 2004. Hiromu Arakawa also won the 15th Tezuka Osamu Cultural Prize in the New Artist Prize category for the series in 2011. As of 2015, over 64 million copies of the series have been sold worldwide, making it one of Square Enix's most successful publications, according to Nielsen Bookscan. A live-action film is in development by Warner Bros. Japan and is scheduled for release in Winter 2017. The series was published in English as Fullmetal Alchemist by VIZ Media from May 3, 2005 to December 20, 2011, and in eBook format by Yen Press on April 15, 2014. A 3-in-1 omnibus edition was released by VIZ from June 7, 2011 to November 11, 2014 as well as a complete box set in November 1, 2011 (which included the novel Fullmetal Alchemist: The Ties That Bind). The manga was also published in Italian by Panini Comics under the Planet Manga imprint from July 13, 2006 to September 3, 2011, in Polish by J.P. Fantastica from January 2006 to to April 2012, in Brazilian Portuguese by Jbc from February 2007 to April 2011 and in Spanish by Ivrea Argentina starting December 12, 2016.",
+            "authors": [
+                {
+                    "mal_id": 1874,
+                    "type": "people",
+                    "name": "Arakawa, Hiromu",
+                    "url": "https://myanimelist.net/people/1874/Hiromu_Arakawa"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 13,
+                    "type": "manga",
+                    "name": "Shounen Gangan",
+                    "url": "https://myanimelist.net/manga/magazine/13/Shounen_Gangan"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "manga",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/manga/genre/1/Action"
+                },
+                {
+                    "mal_id": 2,
+                    "type": "manga",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/manga/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 46,
+                    "type": "manga",
+                    "name": "Award Winning",
+                    "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "manga",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 38,
+                    "type": "manga",
+                    "name": "Military",
+                    "url": "https://myanimelist.net/manga/genre/38/Military"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 27,
+                    "type": "manga",
+                    "name": "Shounen",
+                    "url": "https://myanimelist.net/manga/genre/27/Shounen"
+                }
+            ]
+        },
+        {
+            "mal_id": 27,
+            "url": "https://myanimelist.net/manga/27/X",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/267781.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/267781t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/267781l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/267781.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/267781t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/267781l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "X"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "X/1999"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "X"
+                },
+                {
+                    "type": "English",
+                    "title": "X"
+                }
+            ],
+            "title": "X",
+            "title_english": "X",
+            "title_japanese": "X",
+            "title_synonyms": [
+                "X/1999"
+            ],
+            "type": "Manga",
+            "chapters": 158,
+            "volumes": 18,
+            "status": "On Hiatus",
+            "publishing": false,
+            "published": {
+                "from": "1992-03-24T00:00:00+00:00",
+                "to": "2003-03-24T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 24,
+                        "month": 3,
+                        "year": 1992
+                    },
+                    "to": {
+                        "day": 24,
+                        "month": 3,
+                        "year": 2003
+                    }
+                },
+                "string": "Mar 24, 1992 to Mar 24, 2003"
+            },
+            "score": 8.1,
+            "scored": 8.1,
+            "scored_by": 8340,
+            "rank": 566,
+            "popularity": 705,
+            "members": 24887,
+            "favorites": 1009,
+            "synopsis": "Six years ago, Kamui Shirou and siblings Fuuma and Kotori Monou were inseparable childhood friends. After the sudden, gruesome death of the Monou siblings' mother, Kamui was taken away from Tokyo by his own mother. In the years that passed, the two lived peacefully while Kamui strengthened his innate telekinetic abilities. When his mother passes away in 1999, her dying wish prompts him to return to Tokyo to face his \"destiny.\" When Kamui reappears in the city, his attitude has taken a drastic turn, and he displays the growth of his powers through violent confrontations in the streets. Various opponents come after him asking if he is \"Kamui,\" but they seem to be demanding something far more significant than his name. These fighters represent two opposite factions—the Dragons of Heaven and the Dragons of Earth—who each wish to recruit him to their cause. Piecing together clues about the apocalyptic \"promised day,\" Kamui realizes that he holds the fate of the world in his hands. Depending on which group of Dragons he allies himself with, he can either choose to save the world—or end it. [Written by MAL Rewrite]",
+            "background": "X is written and illustrated by the four-person team of CLAMP. It is currently incomplete, but CLAMP has stated their intention to one day conclude the series if they can. It started serialization in Kadokawa Shoten's Monthly Asuka shoujo manga magazine in May 1992 and stopped serialization in March 2003. Events depicted in the manga were too similar for comfort to real-life disasters that occurred in Japan, which contributed to the series' halt. Chapters of X have been collected in eighteen and a \"half\" volumes, out of a total twenty-one volumes expected. X has been adapted into various anime that speculate about events that occurred before the manga started or after the point where the manga left off. The series was published in English by VIZ Media as 3-in-1 omnibus volume from November 8, 2011 to August 13, 2013.",
+            "authors": [
+                {
+                    "mal_id": 1877,
+                    "type": "people",
+                    "name": "CLAMP",
+                    "url": "https://myanimelist.net/people/1877/CLAMP"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 14,
+                    "type": "manga",
+                    "name": "Asuka",
+                    "url": "https://myanimelist.net/manga/magazine/14/Asuka"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "manga",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/manga/genre/1/Action"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "manga",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+                },
+                {
+                    "mal_id": 37,
+                    "type": "manga",
+                    "name": "Supernatural",
+                    "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 40,
+                    "type": "manga",
+                    "name": "Psychological",
+                    "url": "https://myanimelist.net/manga/genre/40/Psychological"
+                },
+                {
+                    "mal_id": 31,
+                    "type": "manga",
+                    "name": "Super Power",
+                    "url": "https://myanimelist.net/manga/genre/31/Super_Power"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 25,
+                    "type": "manga",
+                    "name": "Shoujo",
+                    "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+                }
+            ]
+        },
+        {
+            "mal_id": 28,
+            "url": "https://myanimelist.net/manga/28/Nana",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/262324.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/262324t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/262324l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/262324.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/262324t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/262324l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Nana"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "NANA"
+                },
+                {
+                    "type": "English",
+                    "title": "Nana"
+                },
+                {
+                    "type": "German",
+                    "title": "NANA"
+                }
+            ],
+            "title": "Nana",
+            "title_english": "Nana",
+            "title_japanese": "NANA",
+            "title_synonyms": [],
+            "type": "Manga",
+            "chapters": 84,
+            "volumes": 21,
+            "status": "On Hiatus",
+            "publishing": false,
+            "published": {
+                "from": "2000-05-26T00:00:00+00:00",
+                "to": "2009-05-26T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 26,
+                        "month": 5,
+                        "year": 2000
+                    },
+                    "to": {
+                        "day": 26,
+                        "month": 5,
+                        "year": 2009
+                    }
+                },
+                "string": "May 26, 2000 to May 26, 2009"
+            },
+            "score": 8.79,
+            "scored": 8.79,
+            "scored_by": 42691,
+            "rank": 36,
+            "popularity": 78,
+            "members": 136884,
+            "favorites": 11338,
+            "synopsis": "Nana Komatsu is a naive, unmotivated girl who spends her high school days chasing one crush after the other. Despite continually facing failure in her quest for love, her spirits have never dampened. At the age of 20, she finds herself on a train to Tokyo with hopes of reuniting with her current boyfriend. Nana Osaki, on the other hand, is feisty and prideful. After joining a local band during her high school days, she falls in love with music and one of the band members. However, when faced with the choice between her relationship and her musical career, she chooses the latter and separates from her boyfriend. On her 20th birthday, she boards the same train to Tokyo, like her namesake, where she aims to become a top vocalist. The two girls with the same name but very different aspirations find themselves sitting together on their journey to the city, and, as fate would have it, eventually share the same apartment. A deep and unique bond is then forged, where they will support each other in this saga of love, music, friendship, and heartbreak. [Written by MAL Rewrite]",
+            "background": "Nana has been published in English by VIZ Media under the Shojo Beat imprint since December 6, 2005; in Spain by Planeta Cómic since 2007; and in Argentina by Editorial Ivrea since 2009. The series was placed on hiatus since the July 2009 issue of Cookie due to the mangaka's sudden illness.",
+            "authors": [
+                {
+                    "mal_id": 1894,
+                    "type": "people",
+                    "name": "Yazawa, Ai",
+                    "url": "https://myanimelist.net/people/1894/Ai_Yazawa"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 15,
+                    "type": "manga",
+                    "name": "Cookie",
+                    "url": "https://myanimelist.net/manga/magazine/15/Cookie"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 46,
+                    "type": "manga",
+                    "name": "Award Winning",
+                    "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 50,
+                    "type": "manga",
+                    "name": "Adult Cast",
+                    "url": "https://myanimelist.net/manga/genre/50/Adult_Cast"
+                },
+                {
+                    "mal_id": 64,
+                    "type": "manga",
+                    "name": "Love Polygon",
+                    "url": "https://myanimelist.net/manga/genre/64/Love_Polygon"
+                },
+                {
+                    "mal_id": 19,
+                    "type": "manga",
+                    "name": "Music",
+                    "url": "https://myanimelist.net/manga/genre/19/Music"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 25,
+                    "type": "manga",
+                    "name": "Shoujo",
+                    "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+                }
+            ]
+        },
+        {
+            "mal_id": 29,
+            "url": "https://myanimelist.net/manga/29/Paradise_Kiss",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/262323.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/262323t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/262323l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/262323.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/262323t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/262323l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Paradise Kiss"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "ParaKiss"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "パラダイス・キス"
+                },
+                {
+                    "type": "English",
+                    "title": "Paradise Kiss"
+                }
+            ],
+            "title": "Paradise Kiss",
+            "title_english": "Paradise Kiss",
+            "title_japanese": "パラダイス・キス",
+            "title_synonyms": [
+                "ParaKiss"
+            ],
+            "type": "Manga",
+            "chapters": 48,
+            "volumes": 5,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "1999-03-23T00:00:00+00:00",
+                "to": "2003-03-22T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 23,
+                        "month": 3,
+                        "year": 1999
+                    },
+                    "to": {
+                        "day": 22,
+                        "month": 3,
+                        "year": 2003
+                    }
+                },
+                "string": "Mar 23, 1999 to Mar 22, 2003"
+            },
+            "score": 8.29,
+            "scored": 8.29,
+            "scored_by": 20733,
+            "rank": 311,
+            "popularity": 310,
+            "members": 51153,
+            "favorites": 2564,
+            "synopsis": "After two eccentrically dressed individuals ambush her, high school student Yukari Hayasaka promptly passes out due to shock. She soon awakens to find herself surrounded by even more strangely dressed people in the basement studio of Paradise Kiss—a fashion design club composed of four students from Yazawa School for the Arts. Although it seems like Yukari has been kidnapped, the older students explain that they only approached her to see if she would model their collection for an upcoming fashion show. Being a senior with a busy schedule, Yukari furiously rejects the group's offer. But when she drops her student passbook in her haste to leave, the ringleader of the group, George Koizumi, picks it up and uses it as a means to coerce Yukari into considering their request. After hearing about the other members' unbridled ambition, Yukari is inspired to reevaluate her own circumstances and eventually agrees to help them out. Now as Paradise Kiss' model, Yukari must learn to balance her new responsibilities with her hectic personal life. However, the more time she spends with George and the rest of the team, the harder it becomes for her to avoid getting swept up in the glitz and glamor of the fashion world. [Written by MAL Rewrite]",
+            "background": "Paradise Kiss was published in English by Tokyopop from May 21, 2002 to March 9, 2004. Due to Tokyopop dissolving in 2011, Vertical Inc. acquired the publishing rights and republished the entire series in three volumes from September 25, 2012 to March 5, 2013. The manga received a live-action film adaptation produced by Fox International, which was released in Japan on June 4, 2011. A mobile game based on the series was published by Hot Pod on June 6, 2011.",
+            "authors": [
+                {
+                    "mal_id": 1894,
+                    "type": "people",
+                    "name": "Yazawa, Ai",
+                    "url": "https://myanimelist.net/people/1894/Ai_Yazawa"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 16,
+                    "type": "manga",
+                    "name": "Zipper",
+                    "url": "https://myanimelist.net/manga/magazine/16/Zipper"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 23,
+                    "type": "manga",
+                    "name": "School",
+                    "url": "https://myanimelist.net/manga/genre/23/School"
+                },
+                {
+                    "mal_id": 82,
+                    "type": "manga",
+                    "name": "Visual Arts",
+                    "url": "https://myanimelist.net/manga/genre/82/Visual_Arts"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 42,
+                    "type": "manga",
+                    "name": "Josei",
+                    "url": "https://myanimelist.net/manga/genre/42/Josei"
+                }
+            ]
+        },
+        {
+            "mal_id": 30,
+            "url": "https://myanimelist.net/manga/30/Ouran_Koukou_Host_Club",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/267782.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/267782t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/267782l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/267782.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/267782t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/267782l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Ouran Koukou Host Club"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "OHSHC"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Romantic Egoist"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "桜蘭高校ホスト部"
+                },
+                {
+                    "type": "English",
+                    "title": "Ouran High School Host Club"
+                },
+                {
+                    "type": "German",
+                    "title": "Ouran High School Host Club"
+                },
+                {
+                    "type": "Spanish",
+                    "title": "Instituto Ouran Host Club"
+                },
+                {
+                    "type": "French",
+                    "title": "Host Club - Le lycée de la séduction"
+                }
+            ],
+            "title": "Ouran Koukou Host Club",
+            "title_english": "Ouran High School Host Club",
+            "title_japanese": "桜蘭高校ホスト部",
+            "title_synonyms": [
+                "OHSHC",
+                "Romantic Egoist"
+            ],
+            "type": "Manga",
+            "chapters": 87,
+            "volumes": 18,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2002-07-24T00:00:00+00:00",
+                "to": "2010-09-24T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 24,
+                        "month": 7,
+                        "year": 2002
+                    },
+                    "to": {
+                        "day": 24,
+                        "month": 9,
+                        "year": 2010
+                    }
+                },
+                "string": "Jul 24, 2002 to Sep 24, 2010"
+            },
+            "score": 8.5,
+            "scored": 8.5,
+            "scored_by": 59429,
+            "rank": 142,
+            "popularity": 92,
+            "members": 126245,
+            "favorites": 8043,
+            "synopsis": "At Ouran High School, an academy where only the children of the rich and powerful attend, there exists a club consisting of the most elite of the student body: the legendary Host Club. Within the club's room, six beautiful, bored boys spend their time entertaining equally beautiful and bored girls. Haruhi Fujioka, a poor scholarship student, has no interest in the Host Club—until she breaks a valuable vase in their clubroom. After being mistaken for a boy, Haruhi is forced by Kyouya Ootori to work for the Host Club to repay her debt. Tamaki Suou, the princely leader of the club, eagerly takes her under his wing to teach her the ways of the host. Things, however, are never quite so simple with the Host Club around. Even the most mundane events can turn into huge spectacles with the likes of prankster twins Hikaru and Kaoru Hitachiin, stoic Takashi Morinozuka, and sweet Mitsukuni \"Hunny\" Haninozuka. The crazy adventures of the Host Club are just beginning, and Haruhi must learn how to survive in the glitzy world of the hosts. [Written by MAL Rewrite] Note: The final volume contains a special bonus chapter where the group travels to Spain.",
+            "background": "Ouran Koukou Host Club was published in English as Ouran High School Host Club by VIZ Media under the Shojo Beat imprint from July 5, 2005 to June 5, 2012. An 18-volume boxed-set including an exclusive notepad featuring character's art was released on November 6, 2012. It was also was published in Polish by Japonica Polonica Fantastica from October 2009 to September 2013.",
+            "authors": [
+                {
+                    "mal_id": 1895,
+                    "type": "people",
+                    "name": "Hatori, Bisco",
+                    "url": "https://myanimelist.net/people/1895/Bisco_Hatori"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 11,
+                    "type": "manga",
+                    "name": "LaLa",
+                    "url": "https://myanimelist.net/manga/magazine/11/LaLa"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 44,
+                    "type": "manga",
+                    "name": "Crossdressing",
+                    "url": "https://myanimelist.net/manga/genre/44/Crossdressing"
+                },
+                {
+                    "mal_id": 74,
+                    "type": "manga",
+                    "name": "Reverse Harem",
+                    "url": "https://myanimelist.net/manga/genre/74/Reverse_Harem"
+                },
+                {
+                    "mal_id": 23,
+                    "type": "manga",
+                    "name": "School",
+                    "url": "https://myanimelist.net/manga/genre/23/School"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 25,
+                    "type": "manga",
+                    "name": "Shoujo",
+                    "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+                }
+            ]
+        },
+        {
+            "mal_id": 31,
+            "url": "https://myanimelist.net/manga/31/Lovely★Complex",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/209659.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/209659t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/209659l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/209659.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/209659t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/209659l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Lovely★Complex"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Love Com Plus"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Lovely Complex Plus"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "ラブ★コン"
+                },
+                {
+                    "type": "English",
+                    "title": "Love★Com"
+                }
+            ],
+            "title": "Lovely★Complex",
+            "title_english": "Love★Com",
+            "title_japanese": "ラブ★コン",
+            "title_synonyms": [
+                "Love Com Plus",
+                "Lovely Complex Plus"
+            ],
+            "type": "Manga",
+            "chapters": 68,
+            "volumes": 17,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2001-08-13T00:00:00+00:00",
+                "to": "2007-08-13T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 13,
+                        "month": 8,
+                        "year": 2001
+                    },
+                    "to": {
+                        "day": 13,
+                        "month": 8,
+                        "year": 2007
+                    }
+                },
+                "string": "Aug 13, 2001 to Aug 13, 2007"
+            },
+            "score": 8.33,
+            "scored": 8.33,
+            "scored_by": 27454,
+            "rank": 270,
+            "popularity": 250,
+            "members": 62627,
+            "favorites": 2811,
+            "synopsis": "When the taller than average 172 cm Risa Koizumi learns that her occasional nemesis, the shorter than average 156 cm Atsushi Ootani, is romantically interested in her friend, she decides to team up with him. After all, she also has feelings for his friend. Unluckily, however, their respective crushes fall for each other instead. Determined to find new love after their recent misfortunes, the pair decide to cheer each other on while maintaining their usual dynamic of constant bickering. Although they continually deny it, Risa and Ootani are more similar than they like to admit: they both have unusual heights, failing grades, identical tastes in food, and a tendency to act extremely childish. Together, they inspire laughter among their peers as a so-called comedic duo. Could the love that these two are looking for be closer than they think? [Written by MAL Rewrite] Included one-shots: Volume 12: Hoshi ni Nattemo Aishiteru Volume 16: Bokura no Ibasho",
+            "background": "Lovely★Complex won the 49th Shogakukan Manga Award for shoujo in 2004. The manga was published in English as Love★Com by VIZ Media under the Shojo Beat imprint from July 3, 2007 to March 2, 2010 and was adapted to two drama CDs, a live-action movie and PlayStation 2 game in 2006, and a TV anime series in 2007.",
+            "authors": [
+                {
+                    "mal_id": 1896,
+                    "type": "people",
+                    "name": "Nakahara, Aya",
+                    "url": "https://myanimelist.net/people/1896/Aya_Nakahara"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 53,
+                    "type": "manga",
+                    "name": "Bessatsu Margaret",
+                    "url": "https://myanimelist.net/manga/magazine/53/Bessatsu_Margaret"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 46,
+                    "type": "manga",
+                    "name": "Award Winning",
+                    "url": "https://myanimelist.net/manga/genre/46/Award_Winning"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 23,
+                    "type": "manga",
+                    "name": "School",
+                    "url": "https://myanimelist.net/manga/genre/23/School"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 25,
+                    "type": "manga",
+                    "name": "Shoujo",
+                    "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+                }
+            ]
+        },
+        {
+            "mal_id": 32,
+            "url": "https://myanimelist.net/manga/32/666_Satan",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/267783.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/267783t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/267783l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/267783.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/267783t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/267783l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "666 Satan"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Trigger"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "666〜サタン〜"
+                },
+                {
+                    "type": "English",
+                    "title": "O-Parts Hunter"
+                }
+            ],
+            "title": "666 Satan",
+            "title_english": "O-Parts Hunter",
+            "title_japanese": "666〜サタン〜",
+            "title_synonyms": [
+                "Trigger"
+            ],
+            "type": "Manga",
+            "chapters": 78,
+            "volumes": 19,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2001-08-11T00:00:00+00:00",
+                "to": "2007-12-12T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 11,
+                        "month": 8,
+                        "year": 2001
+                    },
+                    "to": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2007
+                    }
+                },
+                "string": "Aug 11, 2001 to Dec 12, 2007"
+            },
+            "score": 7.44,
+            "scored": 7.44,
+            "scored_by": 16525,
+            "rank": 3353,
+            "popularity": 489,
+            "members": 34401,
+            "favorites": 1037,
+            "synopsis": "In the not too distant future, mankind battles over O-Parts, relics from an ancient civilization. It takes a special kind of person to unlock the full potential of these remnants from the past, and a unique breed of humans known as O.P.T.s (or O-Parts Tacticians) become a force to be reckoned with. Unfortunately, O-Parts can be used for good or evil purposes. Jio is a young boy with a tragic past who only trusts one thing in the world: money. Little does he suspect that he is actually a very powerful O.P.T., and inside him sleeps a demon of incredible ferocity. He meets up with a girl named Ruby, and together they decide to embark on a dangerous quest to discover as many O-Parts as they can. Will Jio help Ruby realize her dream of becoming a world famous treasure hunter? More importantly, will Ruby help Jio realize his dream of--world domination?! (Source: Viz Media) Included one-shots: Volume 6: Trigger",
+            "background": "666 Satan was published in English as O-Parts Hunter by VIZ Media from December 12, 2006 to December 8, 2009; in Italian by J-POP from June 6, 2008 to July 25, 2010; and in Spanish by EDT/Glénat from July 2009 to June 2012.",
+            "authors": [
+                {
+                    "mal_id": 1897,
+                    "type": "people",
+                    "name": "Kishimoto, Seishi",
+                    "url": "https://myanimelist.net/people/1897/Seishi_Kishimoto"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 13,
+                    "type": "manga",
+                    "name": "Shounen Gangan",
+                    "url": "https://myanimelist.net/manga/magazine/13/Shounen_Gangan"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "manga",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/manga/genre/1/Action"
+                },
+                {
+                    "mal_id": 2,
+                    "type": "manga",
+                    "name": "Adventure",
+                    "url": "https://myanimelist.net/manga/genre/2/Adventure"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "manga",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+                },
+                {
+                    "mal_id": 37,
+                    "type": "manga",
+                    "name": "Supernatural",
+                    "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 27,
+                    "type": "manga",
+                    "name": "Shounen",
+                    "url": "https://myanimelist.net/manga/genre/27/Shounen"
+                }
+            ]
+        },
+        {
+            "mal_id": 33,
+            "url": "https://myanimelist.net/manga/33/Pita-Ten",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/191236.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/191236t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/191236l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/191236.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/191236t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/191236l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Pita-Ten"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Clinging Angel"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "ぴたテン"
+                },
+                {
+                    "type": "English",
+                    "title": "Pita-Ten"
+                }
+            ],
+            "title": "Pita-Ten",
+            "title_english": "Pita-Ten",
+            "title_japanese": "ぴたテン",
+            "title_synonyms": [
+                "Clinging Angel"
+            ],
+            "type": "Manga",
+            "chapters": 47,
+            "volumes": 8,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "1999-08-27T00:00:00+00:00",
+                "to": "2003-06-27T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 27,
+                        "month": 8,
+                        "year": 1999
+                    },
+                    "to": {
+                        "day": 27,
+                        "month": 6,
+                        "year": 2003
+                    }
+                },
+                "string": "Aug 27, 1999 to Jun 27, 2003"
+            },
+            "score": 7.38,
+            "scored": 7.38,
+            "scored_by": 4071,
+            "rank": 3929,
+            "popularity": 2456,
+            "members": 8059,
+            "favorites": 278,
+            "synopsis": "Kotarou Higuchi is a sixth-grade student who not only has to work hard to get into a good middle school, but he also has to deal with the responsibilities that come with living in an apartment all by himself. One day, while leaving for school, he is greeted with a surprise: an unfamiliar, older girl in a frilly black dress is waiting by his front door, asking to be friends with him! Despite his attempts at ignoring her, the strange girl determinedly follows Kotarou all the way to school and back. Giving in, Kotarou finds out that the strange girl's name is Misha and that she is his new neighbor, supposedly from Heaven to work on becoming a full-time angel. What will become of Kotarou and his life with this \"clingy angel\"? [Written by MAL Rewrite]",
+            "background": "Pita-Ten was published in English by Tokypop from January 13, 2004 to March 8, 2005.",
+            "authors": [
+                {
+                    "mal_id": 1898,
+                    "type": "people",
+                    "name": "Koge-Donbo*",
+                    "url": "https://myanimelist.net/people/1898/Koge-Donbo"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 18,
+                    "type": "manga",
+                    "name": "Dengeki Comic Gao!",
+                    "url": "https://myanimelist.net/manga/magazine/18/Dengeki_Comic_Gao"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "manga",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+                {
+                    "mal_id": 27,
+                    "type": "manga",
+                    "name": "Shounen",
+                    "url": "https://myanimelist.net/manga/genre/27/Shounen"
+                }
+            ]
+        },
+        {
+            "mal_id": 35,
+            "url": "https://myanimelist.net/manga/35/Kamichama_Karin",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/267789.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/267789t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/267789l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/267789.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/267789t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/267789l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Kamichama Karin"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Little Goddess Karin"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "かみちゃまかりん"
+                },
+                {
+                    "type": "English",
+                    "title": "Kamichama Karin"
+                }
+            ],
+            "title": "Kamichama Karin",
+            "title_english": "Kamichama Karin",
+            "title_japanese": "かみちゃまかりん",
+            "title_synonyms": [
+                "Little Goddess Karin"
+            ],
+            "type": "Manga",
+            "chapters": 32,
+            "volumes": 7,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2002-11-02T00:00:00+00:00",
+                "to": "2008-04-03T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 2,
+                        "month": 11,
+                        "year": 2002
+                    },
+                    "to": {
+                        "day": 3,
+                        "month": 4,
+                        "year": 2008
+                    }
+                },
+                "string": "Nov 2, 2002 to Apr 3, 2008"
+            },
+            "score": 7.51,
+            "scored": 7.51,
+            "scored_by": 5924,
+            "rank": 2794,
+            "popularity": 1588,
+            "members": 12197,
+            "favorites": 301,
+            "synopsis": "After the death of her beloved cat, orphan Karin Hanazono is left lonesome and empty. As she does not have any friends and performs poorly at school, her mean-spirited aunt resents having to take care of her. Wholeheartedly believing that God will grant her salvation one day, she tightly holds onto the ring that her mother passed down to her. Seeking solace by spending time at her late cat's grave, Karin unexpectedly meets a boy named Kazune Kuujou, who claims he is looking for God. However, Kazune calls her weak for relying on her deceased cat for comfort. Angered by the insult, Karin subconsciously channels energy into her mother's ring. Soon enough, she begins to excel at school and classmates compliment her for the first time. Unbeknownst to her, the ring has bestowed her godly powers. The revelation of the ring's transcendent strength catches the eyes of not only Kazune but also more sinister figures who wish to take advantage of Karin for nefarious purposes. Karin must now use her newly acquired gift to fight back against these malicious forces, unaware of the truth behind her heritage and the existence of others with similar abilities. [Written by MAL Rewrite]",
+            "background": "Kamichama Karin was first published in English by Tokyopop from September 30, 2005 to May 1, 2007. Del Rey later took over the license, and published the series from June 24, 2008 to January 26, 2010.",
+            "authors": [
+                {
+                    "mal_id": 1898,
+                    "type": "people",
+                    "name": "Koge-Donbo*",
+                    "url": "https://myanimelist.net/people/1898/Koge-Donbo"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 20,
+                    "type": "manga",
+                    "name": "Nakayoshi",
+                    "url": "https://myanimelist.net/manga/magazine/20/Nakayoshi"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 10,
+                    "type": "manga",
+                    "name": "Fantasy",
+                    "url": "https://myanimelist.net/manga/genre/10/Fantasy"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 66,
+                    "type": "manga",
+                    "name": "Mahou Shoujo",
+                    "url": "https://myanimelist.net/manga/genre/66/Mahou_Shoujo"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 25,
+                    "type": "manga",
+                    "name": "Shoujo",
+                    "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+                }
+            ]
+        },
+        {
+            "mal_id": 36,
+            "url": "https://myanimelist.net/manga/36/Kamikaze_Kaitou_Jeanne",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/267790.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/267790t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/267790l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/267790.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/267790t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/267790l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Kamikaze Kaitou Jeanne"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Divine Wind Phantom Thief Jeanne"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "神風怪盗ジャンヌ"
+                },
+                {
+                    "type": "English",
+                    "title": "Phantom Thief Jeanne"
+                }
+            ],
+            "title": "Kamikaze Kaitou Jeanne",
+            "title_english": "Phantom Thief Jeanne",
+            "title_japanese": "神風怪盗ジャンヌ",
+            "title_synonyms": [
+                "Divine Wind Phantom Thief Jeanne"
+            ],
+            "type": "Manga",
+            "chapters": 33,
+            "volumes": 7,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "1997-12-29T00:00:00+00:00",
+                "to": "2000-06-03T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 29,
+                        "month": 12,
+                        "year": 1997
+                    },
+                    "to": {
+                        "day": 3,
+                        "month": 6,
+                        "year": 2000
+                    }
+                },
+                "string": "Dec 29, 1997 to Jun 3, 2000"
+            },
+            "score": 7.79,
+            "scored": 7.79,
+            "scored_by": 10471,
+            "rank": 1307,
+            "popularity": 889,
+            "members": 19963,
+            "favorites": 823,
+            "synopsis": "It's nearly the end of the century, and one girl has been breaking the news: Kaitou Jeanne, a phantom thief supposedly sent by God, has been stealing paintings all around the city. Her real identity is Maron Kusakabe, a 16-year-old rhythmic gymnastics enthusiast and student at Momokuri Academy— something unknown to all, even her best friend Miyako Toudaiji, who is in charge of the police chase for Jeanne. Hidden inside the paintings Maron steals are demons sent by the demon lord, who plans to weaken God's power by having his minions possess human hearts. Assisted by the minor angel Finn Fish, it is up to Maron as the reincarnation of Jeanne d'Arc to assume her alter ego, hunt down the cursed paintings, and seal the vile demons away. However, the tough job of balancing this duty with her lonesome high school life only proves more challenging when a mysterious new phantom thief makes his appearance—Kaitou Sinbad. [Written by MAL Rewrite]",
+            "background": "Kamikaze Kaitou Jeanne was published in English by CMX Manga from November 1, 2005 to January 24, 2007. After the publisher went defunct, VIZ Media picked up the license and republished the series from March 4, 2014 to November 4, 2014, following the 2013 5-volume reprint in Japan.",
+            "authors": [
+                {
+                    "mal_id": 1878,
+                    "type": "people",
+                    "name": "Tanemura, Arina",
+                    "url": "https://myanimelist.net/people/1878/Arina_Tanemura"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 9,
+                    "type": "manga",
+                    "name": "Ribon Magazine",
+                    "url": "https://myanimelist.net/manga/magazine/9/Ribon_Magazine"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 1,
+                    "type": "manga",
+                    "name": "Action",
+                    "url": "https://myanimelist.net/manga/genre/1/Action"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                },
+                {
+                    "mal_id": 37,
+                    "type": "manga",
+                    "name": "Supernatural",
+                    "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 66,
+                    "type": "manga",
+                    "name": "Mahou Shoujo",
+                    "url": "https://myanimelist.net/manga/genre/66/Mahou_Shoujo"
+                },
+                {
+                    "mal_id": 73,
+                    "type": "manga",
+                    "name": "Reincarnation",
+                    "url": "https://myanimelist.net/manga/genre/73/Reincarnation"
+                },
+                {
+                    "mal_id": 23,
+                    "type": "manga",
+                    "name": "School",
+                    "url": "https://myanimelist.net/manga/genre/23/School"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 25,
+                    "type": "manga",
+                    "name": "Shoujo",
+                    "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+                }
+            ]
+        },
+        {
+            "mal_id": 37,
+            "url": "https://myanimelist.net/manga/37/Shinshi_Doumei_Cross",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/257940.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/257940t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/257940l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/257940.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/257940t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/257940l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Shinshi Doumei Cross"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Gentlemen's Alliance Cross"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Shinshi Doumei +"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Umi no Chikyuugi Nocturne"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Globe of the Sea - Nocturne"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Shoujo Eve Ringo Jikake no 24 Ji"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Shojo Eve: Eve's Applework 24 Hours"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Kusame and Komaki and the Key of Love"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Umi no C"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "紳士同盟†"
+                },
+                {
+                    "type": "English",
+                    "title": "The Gentleman's Alliance Cross"
+                }
+            ],
+            "title": "Shinshi Doumei Cross",
+            "title_english": "The Gentleman's Alliance Cross",
+            "title_japanese": "紳士同盟†",
+            "title_synonyms": [
+                "The Gentlemen's Alliance Cross",
+                "Shinshi Doumei +",
+                "Umi no Chikyuugi Nocturne",
+                "The Globe of the Sea - Nocturne",
+                "Shoujo Eve Ringo Jikake no 24 Ji",
+                "Shojo Eve: Eve's Applework 24 Hours",
+                "Kusame and Komaki and the Key of Love",
+                "Umi no C"
+            ],
+            "type": "Manga",
+            "chapters": 59,
+            "volumes": 11,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2004-08-03T00:00:00+00:00",
+                "to": "2008-06-03T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 3,
+                        "month": 8,
+                        "year": 2004
+                    },
+                    "to": {
+                        "day": 3,
+                        "month": 6,
+                        "year": 2008
+                    }
+                },
+                "string": "Aug 3, 2004 to Jun 3, 2008"
+            },
+            "score": 7.85,
+            "scored": 7.85,
+            "scored_by": 12555,
+            "rank": 1112,
+            "popularity": 663,
+            "members": 26205,
+            "favorites": 1065,
+            "synopsis": "Imperial Academy is an elite private school whose student body is divided into the ranks of Gold, Silver, and Bronze. Depending on your family's wealth and your individual merit, you can be classified as a Silver or Bronze student. However, there is only one Gold student, and this year that person is Shizumasa Touguu—nicknamed \"the Emperor\" because he is the Student Council President. When she was very young, Haine Otomiya fell in love with Shizumasa, after reading the children's picture book that he authored. She had met him twice before attending Imperial Academy, but as a Bronze student, her rank is far below his, so she has been unable to approach him at school. Haine jumps at an opportunity to get close to Shizumasa, and she unexpectedly becomes his bodyguard as well as a member of the Student Council. It seems like a dream come true for her, but soon she will learn that everyone in the Student Council is hiding secrets, and her own shameful history cannot be forgotten either. [Written by MAL Rewrite] Included one-shots",
+            "background": "Shinshi Doumei Cross was published in English as The Gentlemen's Alliance Cross by VIZ Media under the Shojo Beat imprint from March 6, 2007 to April 6, 2010.",
+            "authors": [
+                {
+                    "mal_id": 1878,
+                    "type": "people",
+                    "name": "Tanemura, Arina",
+                    "url": "https://myanimelist.net/people/1878/Arina_Tanemura"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 9,
+                    "type": "manga",
+                    "name": "Ribon Magazine",
+                    "url": "https://myanimelist.net/manga/magazine/9/Ribon_Magazine"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 23,
+                    "type": "manga",
+                    "name": "School",
+                    "url": "https://myanimelist.net/manga/genre/23/School"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 25,
+                    "type": "manga",
+                    "name": "Shoujo",
+                    "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+                }
+            ]
+        },
+        {
+            "mal_id": 45,
+            "url": "https://myanimelist.net/manga/45/Ichigo_100",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/259714.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/259714t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/259714l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/259714.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/259714t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/259714l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Ichigo 100%"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "いちご100%"
+                },
+                {
+                    "type": "English",
+                    "title": "Strawberry 100%"
+                }
+            ],
+            "title": "Ichigo 100%",
+            "title_english": "Strawberry 100%",
+            "title_japanese": "いちご100%",
+            "title_synonyms": [],
+            "type": "Manga",
+            "chapters": 167,
+            "volumes": 19,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2002-02-19T00:00:00+00:00",
+                "to": "2005-08-01T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 19,
+                        "month": 2,
+                        "year": 2002
+                    },
+                    "to": {
+                        "day": 1,
+                        "month": 8,
+                        "year": 2005
+                    }
+                },
+                "string": "Feb 19, 2002 to Aug 1, 2005"
+            },
+            "score": 7.77,
+            "scored": 7.77,
+            "scored_by": 20845,
+            "rank": 1388,
+            "popularity": 337,
+            "members": 47272,
+            "favorites": 2023,
+            "synopsis": "Strawberry panties backdropped against a sunset sky—that was aspiring film director Junpei Manaka's introduction to a mysterious beauty at his middle school. Suspecting the girl is his classmate Aya Toujou, Junpei sets out to get in touch with her to refilm that skirt flip for \"artistic\" reasons. However, when he bumps into her the next day, he sees a girl that looks vastly different from the one in his memories. Just when Junpei thinks he is back to the drawing board, he runs into the school's darling, Tsukasa Nishino, boldly declaring that she is wearing strawberry panties for the day. Convincing himself that Tsukasa is the girl he has been looking for all along, Junpei starts planning his confession—all for the sake of becoming her boyfriend and filming her panties! [Written by MAL Rewrite]",
+            "background": "Ichigo 100% was published in English as Strawberry 100% by VIZ Media under its Shonen Jump Advanced imprint from July 3, 2007, to October 5, 2010, up to the 14th volume. To promote the publication of manga in Germany, the series was released in German as 100% Strawberry by Tokyopop GmbH from April 2006, to August 2009, in collaboration with VIZ Media and Shueisha. The manga was also published in Brazilian Portuguese as 100% Morango by Panini Comics under its Planet Manga imprint from April 2010, to April 2013.",
+            "authors": [
+                {
+                    "mal_id": 1905,
+                    "type": "people",
+                    "name": "Kawashita, Mizuki",
+                    "url": "https://myanimelist.net/people/1905/Mizuki_Kawashita"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 83,
+                    "type": "manga",
+                    "name": "Shounen Jump (Weekly)",
+                    "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                },
+                {
+                    "mal_id": 9,
+                    "type": "manga",
+                    "name": "Ecchi",
+                    "url": "https://myanimelist.net/manga/genre/9/Ecchi"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 35,
+                    "type": "manga",
+                    "name": "Harem",
+                    "url": "https://myanimelist.net/manga/genre/35/Harem"
+                },
+                {
+                    "mal_id": 23,
+                    "type": "manga",
+                    "name": "School",
+                    "url": "https://myanimelist.net/manga/genre/23/School"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 27,
+                    "type": "manga",
+                    "name": "Shounen",
+                    "url": "https://myanimelist.net/manga/genre/27/Shounen"
+                }
+            ]
+        },
+        {
+            "mal_id": 52,
+            "url": "https://myanimelist.net/manga/52/Whistle",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/267799.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/267799t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/267799l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/267799.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/267799t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/267799l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Whistle!"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "ホイッスル!"
+                },
+                {
+                    "type": "English",
+                    "title": "Whistle!"
+                }
+            ],
+            "title": "Whistle!",
+            "title_english": "Whistle!",
+            "title_japanese": "ホイッスル!",
+            "title_synonyms": [],
+            "type": "Manga",
+            "chapters": 216,
+            "volumes": 24,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "1998-02-24T00:00:00+00:00",
+                "to": "2002-10-08T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 24,
+                        "month": 2,
+                        "year": 1998
+                    },
+                    "to": {
+                        "day": 8,
+                        "month": 10,
+                        "year": 2002
+                    }
+                },
+                "string": "Feb 24, 1998 to Oct 8, 2002"
+            },
+            "score": 7.8,
+            "scored": 7.8,
+            "scored_by": 2714,
+            "rank": 1277,
+            "popularity": 3404,
+            "members": 5891,
+            "favorites": 164,
+            "synopsis": "Everybody has a dream, and for Shou Kazamatsuri, that dream is simple: he wants to be the best soccer player he can possibly be. He's the spirited leader of the Josui Junior High team and everyone looks up to him. In turn, he tries to keep the team together at any cost! (Source: VIZ Media)",
+            "background": "Whistle! was published in English by VIZ Media under the Shonen Jump imprint from October 12, 2004 to January 5, 2010.",
+            "authors": [
+                {
+                    "mal_id": 1912,
+                    "type": "people",
+                    "name": "Higuchi, Daisuke",
+                    "url": "https://myanimelist.net/people/1912/Daisuke_Higuchi"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 83,
+                    "type": "manga",
+                    "name": "Shounen Jump (Weekly)",
+                    "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 30,
+                    "type": "manga",
+                    "name": "Sports",
+                    "url": "https://myanimelist.net/manga/genre/30/Sports"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 78,
+                    "type": "manga",
+                    "name": "Team Sports",
+                    "url": "https://myanimelist.net/manga/genre/78/Team_Sports"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 27,
+                    "type": "manga",
+                    "name": "Shounen",
+                    "url": "https://myanimelist.net/manga/genre/27/Shounen"
+                }
+            ]
+        }
+    ]
+}
