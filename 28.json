@@ -2741,6 +2741,2476 @@
             "explicit_genres": [],
             "themes": [],
             "demographics": []
+        },
+        {
+            "mal_id": 224,
+            "url": "https://myanimelist.net/manga/224/Camera_Camera_Camera",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/30593.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/30593t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/30593l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/30593.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/30593t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/30593l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Camera Camera Camera"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "カメラ・カメラ・カメラ"
+                },
+                {
+                    "type": "English",
+                    "title": "Camera Camera Camera"
+                }
+            ],
+            "title": "Camera Camera Camera",
+            "title_english": "Camera Camera Camera",
+            "title_japanese": "カメラ・カメラ・カメラ",
+            "title_synonyms": [],
+            "type": "Manga",
+            "chapters": 13,
+            "volumes": 2,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2002-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2002
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2002"
+            },
+            "score": 6.73,
+            "scored": 6.73,
+            "scored_by": 191,
+            "rank": 12485,
+            "popularity": 23606,
+            "members": 431,
+            "favorites": 2,
+            "synopsis": "Akira Togawa is a normal teenager: he goes to an average high school, he plays video games, he's in love with his step-brother, he's harassed by lecherous photographers, picked on by mischievous little boys, insulted by possessive young women...you get the idea. When a scruffy photographer by the name of Kaoru Nakahara has a premonition of love (or so he says) and takes a campus photography job, he ends up meeting Akira and falls head over heels. Will Akira learn to love the persistent pervert, or will he cling to his beloved brother? (Source: Juné Manga)",
+            "background": null,
+            "authors": [
+                {
+                    "mal_id": 2231,
+                    "type": "people",
+                    "name": "Matsumoto, Kazura",
+                    "url": "https://myanimelist.net/people/2231/Kazura_Matsumoto"
+                }
+            ],
+            "serializations": [],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 36,
+                    "type": "manga",
+                    "name": "Slice of Life",
+                    "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 225,
+            "url": "https://myanimelist.net/manga/225/Chiisana_Glass_no_Sora",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/33041.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/33041t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/33041l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/33041.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/33041t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/33041l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Chiisana Glass no Sora"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Chiisana Garasu no Sora"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Little Glass Sky"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Wildman Blues"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Never Cry"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "小さなガラスの空"
+                },
+                {
+                    "type": "English",
+                    "title": "Glass Sky"
+                }
+            ],
+            "title": "Chiisana Glass no Sora",
+            "title_english": "Glass Sky",
+            "title_japanese": "小さなガラスの空",
+            "title_synonyms": [
+                "Chiisana Garasu no Sora",
+                "The Little Glass Sky",
+                "Wildman Blues",
+                "Never Cry"
+            ],
+            "type": "Manga",
+            "chapters": 9,
+            "volumes": 1,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2000-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2000
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2000"
+            },
+            "score": 6.69,
+            "scored": 6.69,
+            "scored_by": 408,
+            "rank": null,
+            "popularity": 16585,
+            "members": 812,
+            "favorites": 0,
+            "synopsis": "Everyone thought Naoki was a little flamboyant, and he was used to getting teased for it. But when Yada glanced at him, he felt something he never had before! Ten deftly written short episodes explore the pathos, confusion, drama, passion and humor of coming out and finding one’s true self. Forbidden desire, hidden lust, jealousy and acceptance collide in this collection of wonderfully drawn, bittersweet short stories of teenage romance by author Yugi Yamada! (Source: Juné Manga)",
+            "background": null,
+            "authors": [
+                {
+                    "mal_id": 2232,
+                    "type": "people",
+                    "name": "Yamada, Yugi",
+                    "url": "https://myanimelist.net/people/2232/Yugi_Yamada"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 138,
+                    "type": "manga",
+                    "name": "Hanaoto",
+                    "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 49,
+                    "type": "manga",
+                    "name": "Erotica",
+                    "url": "https://myanimelist.net/manga/genre/49/Erotica"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 226,
+            "url": "https://myanimelist.net/manga/226/Mizu_Nurumu",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/249350.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/249350t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/249350l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/249350.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/249350t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/249350l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Mizu Nurumu"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Mizu Numuru"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "水温む"
+                },
+                {
+                    "type": "English",
+                    "title": "Spring Fever"
+                }
+            ],
+            "title": "Mizu Nurumu",
+            "title_english": "Spring Fever",
+            "title_japanese": "水温む",
+            "title_synonyms": [
+                "Mizu Numuru"
+            ],
+            "type": "Manga",
+            "chapters": 6,
+            "volumes": 1,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2000-10-01T00:00:00+00:00",
+                "to": "2001-03-01T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 10,
+                        "year": 2000
+                    },
+                    "to": {
+                        "day": 1,
+                        "month": 3,
+                        "year": 2001
+                    }
+                },
+                "string": "Oct 2000 to Mar 2001"
+            },
+            "score": 6.91,
+            "scored": 6.91,
+            "scored_by": 346,
+            "rank": null,
+            "popularity": 19373,
+            "members": 628,
+            "favorites": 0,
+            "synopsis": "Yusuke Onishi easily gets crushes on everybody and anybody, but never succeeds in love. That is, until the day he meets and falls in love with his new neighbor—a mature single parent. Yusuke has finally met his match. But his match just happens to be a guy! This is a classic oyaji-uke of an unexpected love between two people, one younger, one older. (Source: Deux) Included one-shots Wildman Blues",
+            "background": "Mizu Nurumu was published in English as Spring Fever by Aurora Publishing's Deux Press imprint on August 1, 2007.",
+            "authors": [
+                {
+                    "mal_id": 2232,
+                    "type": "people",
+                    "name": "Yamada, Yugi",
+                    "url": "https://myanimelist.net/people/2232/Yugi_Yamada"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 138,
+                    "type": "manga",
+                    "name": "Hanaoto",
+                    "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 49,
+                    "type": "manga",
+                    "name": "Erotica",
+                    "url": "https://myanimelist.net/manga/genre/49/Erotica"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 227,
+            "url": "https://myanimelist.net/manga/227/Taiyou_no_Shita_de_Warae",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/33042.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/33042t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/33042l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/33042.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/33042t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/33042l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Taiyou no Shita de Warae"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "太陽の下で笑え。"
+                },
+                {
+                    "type": "English",
+                    "title": "Laugh Under the Sun"
+                }
+            ],
+            "title": "Taiyou no Shita de Warae",
+            "title_english": "Laugh Under the Sun",
+            "title_japanese": "太陽の下で笑え。",
+            "title_synonyms": [],
+            "type": "Manga",
+            "chapters": 5,
+            "volumes": 1,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "1999-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1999
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1999 to ?"
+            },
+            "score": 6.98,
+            "scored": 6.98,
+            "scored_by": 252,
+            "rank": null,
+            "popularity": 21473,
+            "members": 519,
+            "favorites": 1,
+            "synopsis": "After seriously injuring an opponent in a boxing match-Sohei quits his dream of ever being a pro boxer. Ten years later, after a string of failed jobs and relationships, his friend Chika finally convinces him to get back into boxing. But where Sohei was once champ material, he is now 25 years old (over the hill in boxing years) and must play catch up with all the 18-year-olds at the gym. To make things worse, Chika’s been secretly in love with Sohei for years, and has about had it with waiting for Sohei to figure it out. With his upcoming pro test, his squabbles with the youngsters in the boxing club, and Chika’s increasingly bold advances, will Sohei finally find some direction and happiness in his life? (Source: Juné Manga)",
+            "background": null,
+            "authors": [
+                {
+                    "mal_id": 2232,
+                    "type": "people",
+                    "name": "Yamada, Yugi",
+                    "url": "https://myanimelist.net/people/2232/Yugi_Yamada"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 138,
+                    "type": "manga",
+                    "name": "Hanaoto",
+                    "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 49,
+                    "type": "manga",
+                    "name": "Erotica",
+                    "url": "https://myanimelist.net/manga/genre/49/Erotica"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 230,
+            "url": "https://myanimelist.net/manga/230/Chou_ni_Naru_Hi",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/4/21393.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/4/21393t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/4/21393l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/4/21393.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/4/21393t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/4/21393l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Chou ni Naru Hi"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Chou ni Naru Hi"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Cyo-Ninaruhi"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The day which become a butterfly"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "チョウになる日。"
+                },
+                {
+                    "type": "English",
+                    "title": "The Day I Become a Butterfly"
+                }
+            ],
+            "title": "Chou ni Naru Hi",
+            "title_english": "The Day I Become a Butterfly",
+            "title_japanese": "チョウになる日。",
+            "title_synonyms": [
+                "Chou ni Naru Hi",
+                "Cyo-Ninaruhi",
+                "The day which become a butterfly"
+            ],
+            "type": "Manga",
+            "chapters": 6,
+            "volumes": 1,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2003-07-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 7,
+                        "year": 2003
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Jul 2003"
+            },
+            "score": 7.57,
+            "scored": 7.57,
+            "scored_by": 1869,
+            "rank": 2416,
+            "popularity": 5054,
+            "members": 3840,
+            "favorites": 66,
+            "synopsis": "The Day I Became a Butterfly is a volume which contains six chapters, each a different story: 1) The Day I Become a Butterfly 2) You at the end (Hate ni Aru Kimi) 3) The Lonely War 4) Blue Cat Tunnel 5) Tokyo Alien Ulala 6) Planet Yours (Source: ActiveAnime)",
+            "background": null,
+            "authors": [
+                {
+                    "mal_id": 2867,
+                    "type": "people",
+                    "name": "Yumeka, Sumomo",
+                    "url": "https://myanimelist.net/people/2867/Sumomo_Yumeka"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 188,
+                    "type": "manga",
+                    "name": "Craft",
+                    "url": "https://myanimelist.net/manga/magazine/188/Craft"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 233,
+            "url": "https://myanimelist.net/manga/233/Nakagami-ke_no_Ichizoku",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/31109.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/31109t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/31109l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/31109.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/31109t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/31109l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Nakagami-ke no Ichizoku"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Nakagamike no Ichizoku: Akuma ga Kitaru"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Clan of Nakagamis"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Whole Family of Nakagamike"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "仲神家の一族"
+                },
+                {
+                    "type": "English",
+                    "title": "Clan of the Nakagamis"
+                }
+            ],
+            "title": "Nakagami-ke no Ichizoku",
+            "title_english": "Clan of the Nakagamis",
+            "title_japanese": "仲神家の一族",
+            "title_synonyms": [
+                "Nakagamike no Ichizoku: Akuma ga Kitaru",
+                "Clan of Nakagamis",
+                "The Whole Family of Nakagamike"
+            ],
+            "type": "Manga",
+            "chapters": 4,
+            "volumes": 1,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2005-01-01T00:00:00+00:00",
+                "to": "2007-01-01T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2005
+                    },
+                    "to": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2007
+                    }
+                },
+                "string": "2005 to 2007"
+            },
+            "score": 6.89,
+            "scored": 6.89,
+            "scored_by": 320,
+            "rank": null,
+            "popularity": 17057,
+            "members": 776,
+            "favorites": 3,
+            "synopsis": "Haruka Iijima and Tokio Nakagami are student and teacher... and star-crossed lovers! If their forbidden relationship weren't enough trouble, they also have to deal with the rest of Tokio's family, the strange and insane Nakagami Clan! Not only are the Nakagamis all devastatingly gorgeous and apparently ageless, they're all completely obsessed with Tokio- and that means nothing but trouble! Can Haruka and Tokio keep their love alive in the face of such utter weirdness? (Source: Juné Manga)",
+            "background": "Nakagami-ke no Ichizoku was published in English as Clan of the Nakagamis by Digital Manga Publishing on July 4, 2006.",
+            "authors": [
+                {
+                    "mal_id": 2234,
+                    "type": "people",
+                    "name": "Homerun Ken",
+                    "url": "https://myanimelist.net/people/2234/Homerun_Ken"
+                }
+            ],
+            "serializations": [],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                },
+                {
+                    "mal_id": 49,
+                    "type": "manga",
+                    "name": "Erotica",
+                    "url": "https://myanimelist.net/manga/genre/49/Erotica"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 234,
+            "url": "https://myanimelist.net/manga/234/Saigo_no_Door_wo_Shimero",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/33045.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/33045t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/33045l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/33045.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/33045t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/33045l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Saigo no Door wo Shimero!"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Saigo no Door wo Shimero"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Saigo no Doa wo Shimero!"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Close your last door"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "最後のドアを閉めろ！"
+                },
+                {
+                    "type": "English",
+                    "title": "Close the Last Door"
+                }
+            ],
+            "title": "Saigo no Door wo Shimero!",
+            "title_english": "Close the Last Door",
+            "title_japanese": "最後のドアを閉めろ！",
+            "title_synonyms": [
+                "Saigo no Door wo Shimero",
+                "Saigo no Doa wo Shimero!",
+                "Close your last door"
+            ],
+            "type": "Manga",
+            "chapters": 15,
+            "volumes": 2,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2001-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2001
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2001 to ?"
+            },
+            "score": 7.58,
+            "scored": 7.58,
+            "scored_by": 1254,
+            "rank": null,
+            "popularity": 7095,
+            "members": 2613,
+            "favorites": 12,
+            "synopsis": "Nagai is just your typical office guy...except that he’s had a secret crush on his coworker Saitou for ages. But with Saitou’s massive wedding just around the corner, Nagai realizes that it’s finally time to retire his illicit desire for the adorable young man. However, sly Honda has a few teasing tricks up his own sleeve...and once the beer starts flowing, there’s no telling where the night will end! Is this love triangle destined to tumble, or will it evolve into the most tantalizing tryst ever? (Source: Juné Manga)",
+            "background": null,
+            "authors": [
+                {
+                    "mal_id": 2232,
+                    "type": "people",
+                    "name": "Yamada, Yugi",
+                    "url": "https://myanimelist.net/people/2232/Yugi_Yamada"
+                }
+            ],
+            "serializations": [],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                },
+                {
+                    "mal_id": 49,
+                    "type": "manga",
+                    "name": "Erotica",
+                    "url": "https://myanimelist.net/manga/genre/49/Erotica"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 64,
+                    "type": "manga",
+                    "name": "Love Polygon",
+                    "url": "https://myanimelist.net/manga/genre/64/Love_Polygon"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 235,
+            "url": "https://myanimelist.net/manga/235/Aiteru_Door_kara_Shitsurei_Shimasuyo",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/33046.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/33046t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/33046l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/33046.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/33046t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/33046l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Aiteru Door kara Shitsurei Shimasuyo"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Into Your Heart Through the Door"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Story For Opening The Door"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "開いてるドアから失礼しますよ"
+                },
+                {
+                    "type": "English",
+                    "title": "Open The Door Through Your Heart"
+                }
+            ],
+            "title": "Aiteru Door kara Shitsurei Shimasuyo",
+            "title_english": "Open The Door Through Your Heart",
+            "title_japanese": "開いてるドアから失礼しますよ",
+            "title_synonyms": [
+                "Into Your Heart Through the Door",
+                "Story For Opening The Door"
+            ],
+            "type": "Manga",
+            "chapters": 7,
+            "volumes": 1,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2003-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2003
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2003"
+            },
+            "score": 7.07,
+            "scored": 7.07,
+            "scored_by": 644,
+            "rank": null,
+            "popularity": 12715,
+            "members": 1215,
+            "favorites": 2,
+            "synopsis": "This time focusing on the two elder brothers of Kenzou Honda... Shouichi Honda goes to the Asian imported product shop to collect the tax. There he happens to meet an importer, his younger brother, Junji who had run away from home. When Shouichi returns home, Junji is already there having a card game with their parents. They realize how their feelings have not changed since they made love only once 10 years ago. (Source: MU)",
+            "background": "Aireru Door kara Shitsurei Shimasuyo was published in English as Open The Door Through Your Heart by Digital Manga Publishing under the June imprint on December 30, 2010.",
+            "authors": [
+                {
+                    "mal_id": 2232,
+                    "type": "people",
+                    "name": "Yamada, Yugi",
+                    "url": "https://myanimelist.net/people/2232/Yugi_Yamada"
+                }
+            ],
+            "serializations": [],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 49,
+                    "type": "manga",
+                    "name": "Erotica",
+                    "url": "https://myanimelist.net/manga/genre/49/Erotica"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 236,
+            "url": "https://myanimelist.net/manga/236/Kawaii_Beast",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/759.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/759t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/759l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/759.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/759t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/759l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Kawaii Beast"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "かわいいビースト"
+                },
+                {
+                    "type": "English",
+                    "title": "Cute Beast"
+                }
+            ],
+            "title": "Kawaii Beast",
+            "title_english": "Cute Beast",
+            "title_japanese": "かわいいビースト",
+            "title_synonyms": [],
+            "type": "Manga",
+            "chapters": 6,
+            "volumes": 1,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2006-10-30T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 30,
+                        "month": 10,
+                        "year": 2006
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Oct 30, 2006"
+            },
+            "score": 7.11,
+            "scored": 7.11,
+            "scored_by": 1037,
+            "rank": null,
+            "popularity": 8449,
+            "members": 2105,
+            "favorites": 6,
+            "synopsis": "There’s a tall and mysterious (and scary!) guy named Onizuka in Kisaki’s class. He looks horrifying at first glance, but if you take a good look, he’s actually pretty handsome! And yet he acts like a big lumbering animal all the time. He’s practically a little baby! Now, Kisaki’s starting to feel like he wants to keep Onizuka’s hidden charms to himself… but why?! Don’t miss this love story between Kisaki and his cute beast! (Source: DMP)",
+            "background": null,
+            "authors": [
+                {
+                    "mal_id": 2235,
+                    "type": "people",
+                    "name": "Tsuge, Amayo",
+                    "url": "https://myanimelist.net/people/2235/Amayo_Tsuge"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 138,
+                    "type": "manga",
+                    "name": "Hanaoto",
+                    "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 49,
+                    "type": "manga",
+                    "name": "Erotica",
+                    "url": "https://myanimelist.net/manga/genre/49/Erotica"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 237,
+            "url": "https://myanimelist.net/manga/237/Dear_Myself",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/5/843.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/5/843t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/5/843l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/5/843.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/5/843t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/5/843l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Dear Myself"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "ディア・マイセルフ"
+                },
+                {
+                    "type": "English",
+                    "title": "Dear Myself"
+                }
+            ],
+            "title": "Dear Myself",
+            "title_english": "Dear Myself",
+            "title_japanese": "ディア・マイセルフ",
+            "title_synonyms": [],
+            "type": "Manga",
+            "chapters": 3,
+            "volumes": 1,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "1998-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1998
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Jan 1, 1998"
+            },
+            "score": 7.16,
+            "scored": 7.16,
+            "scored_by": 1480,
+            "rank": 6427,
+            "popularity": 7033,
+            "members": 2638,
+            "favorites": 13,
+            "synopsis": "One fateful morning, Hirofumi awakens to discover he has no memory of the previous two years. He has forgotten his classmates and everything he's learned at school. All he recalls is the car accident that caused his amnesia. When he finds a letter written to himself, he is shocked to discover that he has been romantically involved with the tragic and handsome Daigo! Can true love triumph over the loss of memory? And will Hirofumi be able to make Daigo smile again? (Source: DMP)",
+            "background": null,
+            "authors": [
+                {
+                    "mal_id": 2005,
+                    "type": "people",
+                    "name": "Tsuda, Mikiyo",
+                    "url": "https://myanimelist.net/people/2005/Mikiyo_Tsuda"
+                },
+                {
+                    "mal_id": 2236,
+                    "type": "people",
+                    "name": "Eiki, Eiki",
+                    "url": "https://myanimelist.net/people/2236/Eiki_Eiki"
+                }
+            ],
+            "serializations": [],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 238,
+            "url": "https://myanimelist.net/manga/238/Dear_Myself__Worlds_End",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/152305.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/152305t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/152305l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/152305.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/152305t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/152305l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Dear Myself: World's End"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "DEAR MYSELF 2: WORLD'S END"
+                },
+                {
+                    "type": "English",
+                    "title": "Dear Myself: World's End"
+                }
+            ],
+            "title": "Dear Myself: World's End",
+            "title_english": "Dear Myself: World's End",
+            "title_japanese": "DEAR MYSELF 2: WORLD'S END",
+            "title_synonyms": [],
+            "type": "Manga",
+            "chapters": 7,
+            "volumes": 1,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "1999-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 1999
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "1999 to ?"
+            },
+            "score": 7,
+            "scored": 7,
+            "scored_by": 647,
+            "rank": 8661,
+            "popularity": 12092,
+            "members": 1302,
+            "favorites": 1,
+            "synopsis": "It's been four years since Hirofumi and Daigo started living together. But because of his psychological scars, Daigo gradually starts inposing frightening restraints on Hirofumi! Caught in a cage of love and madness, what will Hirofumi's ultimate answer be? At last, the conclusion to the popular Dear Myself series! Also contains the short stories \"Last Spring,\" depicting the alien Hirofumi from those two lost years; \"Kiss on a Honeymoon,\" the aftermath for Ayane and Fumiya, and the now legendary chapters of \"Papa's 18\"! (Source: Digital Manga Publishing)",
+            "background": null,
+            "authors": [
+                {
+                    "mal_id": 2005,
+                    "type": "people",
+                    "name": "Tsuda, Mikiyo",
+                    "url": "https://myanimelist.net/people/2005/Mikiyo_Tsuda"
+                },
+                {
+                    "mal_id": 2236,
+                    "type": "people",
+                    "name": "Eiki, Eiki",
+                    "url": "https://myanimelist.net/people/2236/Eiki_Eiki"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 99,
+                    "type": "manga",
+                    "name": "Dear+",
+                    "url": "https://myanimelist.net/manga/magazine/99/Dear_"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 239,
+            "url": "https://myanimelist.net/manga/239/Yabai_Kimochi",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/159373.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/159373t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/159373l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/159373.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/159373t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/159373l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Yabai Kimochi"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "ヤバイ気持ち"
+                },
+                {
+                    "type": "English",
+                    "title": "Desire"
+                }
+            ],
+            "title": "Yabai Kimochi",
+            "title_english": "Desire",
+            "title_japanese": "ヤバイ気持ち",
+            "title_synonyms": [],
+            "type": "Manga",
+            "chapters": 4,
+            "volumes": 1,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2001-09-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 9,
+                        "year": 2001
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Sep 2001"
+            },
+            "score": 7.2,
+            "scored": 7.2,
+            "scored_by": 1389,
+            "rank": null,
+            "popularity": 7403,
+            "members": 2476,
+            "favorites": 13,
+            "synopsis": "Tooru is a shy and quiet student who has developed a special crush on his close friend Ryouji, the most popular member of the high school swim team. In front of Ryouji, Tooru hides his feelings and acts as if he is just one of Ryouji's good friends, but in a moment out of the blue his world will be turned upside down as Ryouji will confess a secret desire for Tooru. Dazzled, Tooru can barely hide his excitement for Ryouji and quickly accepts his offer. As time passes, Tooru's happiness begins to fade knowing that his affair with Ryouji was just a fling based out of Ryouji's sexual curiosity. Tooru, adamant about his feelings for Ryouji, confides in another one of his close friend, Kashiwazaki, about his dilemma. The two set off to devise a plan to test Ryouji's true intentions by faking a romantic relationship. Soon after, a frustrated and jealous Ryouji attempts to pry Tooru out of the arms of Kashiwazaki. Is it just as they planned? Yeah! That is of course until Tooru realizes Kashiwazaki wasn't really faking! How could he not have seen it coming? Both Tooru and Ryouji have hidden their feelings from each other in the past, but now they have discovered that they were not the only ones. Will Tooru and Ryouji be reunited or will their true feelings for each other go unfulfilled? (Source: DMP)",
+            "background": "Yabai Kimochi was published in English as Desire by Digital Manga Publishing on November 1, 2004. It has also been published in German by Carlsen Verlag.",
+            "authors": [
+                {
+                    "mal_id": 2222,
+                    "type": "people",
+                    "name": "Honami, Yukine",
+                    "url": "https://myanimelist.net/people/2222/Yukine_Honami"
+                },
+                {
+                    "mal_id": 2237,
+                    "type": "people",
+                    "name": "Kazumi, Maki",
+                    "url": "https://myanimelist.net/people/2237/Maki_Kazumi"
+                }
+            ],
+            "serializations": [],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 49,
+                    "type": "manga",
+                    "name": "Erotica",
+                    "url": "https://myanimelist.net/manga/genre/49/Erotica"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 23,
+                    "type": "manga",
+                    "name": "School",
+                    "url": "https://myanimelist.net/manga/genre/23/School"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 240,
+            "url": "https://myanimelist.net/manga/240/Sore_wo_Ittara_Oshimaiyo",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/30562.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/30562t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/30562l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/30562.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/30562t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/30562l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Sore wo Ittara Oshimaiyo"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Don't Say Anymore"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Darling"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "それを言ったらおしまいよ"
+                },
+                {
+                    "type": "English",
+                    "title": "Don't Say Anymore Darling"
+                }
+            ],
+            "title": "Sore wo Ittara Oshimaiyo",
+            "title_english": "Don't Say Anymore Darling",
+            "title_japanese": "それを言ったらおしまいよ",
+            "title_synonyms": [
+                "Don't Say Anymore",
+                "Darling"
+            ],
+            "type": "Manga",
+            "chapters": 5,
+            "volumes": 1,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2004-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2004
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2004 to ?"
+            },
+            "score": 6.83,
+            "scored": 6.83,
+            "scored_by": 286,
+            "rank": null,
+            "popularity": 19882,
+            "members": 598,
+            "favorites": 1,
+            "synopsis": "Kouhei is a doctor at the local university hospital who has lost touch with his high school friend Tadashi. While Kouhei grew up to become a successful young doctor, Tadashi became a jobless, poor-as-dirt, flaming gay writer. But one lonely night, at his wits end, Tadashi sends Kouhei a text message and receives a reply. Of course Tadashi has secretly harbored feelings for Kouhei for a long time. But when he finds out Kouhei is getting set-up for an arranged marriage... (Source: DMP)",
+            "background": null,
+            "authors": [
+                {
+                    "mal_id": 2065,
+                    "type": "people",
+                    "name": "Yoshinaga, Fumi",
+                    "url": "https://myanimelist.net/people/2065/Fumi_Yoshinaga"
+                }
+            ],
+            "serializations": [],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 24,
+                    "type": "manga",
+                    "name": "Sci-Fi",
+                    "url": "https://myanimelist.net/manga/genre/24/Sci-Fi"
+                },
+                {
+                    "mal_id": 36,
+                    "type": "manga",
+                    "name": "Slice of Life",
+                    "url": "https://myanimelist.net/manga/genre/36/Slice_of_Life"
+                },
+                {
+                    "mal_id": 49,
+                    "type": "manga",
+                    "name": "Erotica",
+                    "url": "https://myanimelist.net/manga/genre/49/Erotica"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 241,
+            "url": "https://myanimelist.net/manga/241/Dousaibou_Seibutsu",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/21621.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/21621t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/21621l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/21621.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/21621t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/21621l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Dousaibou Seibutsu."
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Dousaibou Seibutsu"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Dou Saibou Seibutsu"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "同細胞生物。"
+                },
+                {
+                    "type": "English",
+                    "title": "Same Cell Organism"
+                }
+            ],
+            "title": "Dousaibou Seibutsu.",
+            "title_english": "Same Cell Organism",
+            "title_japanese": "同細胞生物。",
+            "title_synonyms": [
+                "Dousaibou Seibutsu",
+                "Dou Saibou Seibutsu"
+            ],
+            "type": "Manga",
+            "chapters": 7,
+            "volumes": 1,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2001-08-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 8,
+                        "year": 2001
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Aug 2001"
+            },
+            "score": 7.38,
+            "scored": 7.38,
+            "scored_by": 1707,
+            "rank": 3886,
+            "popularity": 5511,
+            "members": 3488,
+            "favorites": 32,
+            "synopsis": "Nakagawa and Yokota are two boys very much in love with each other. Yokota is more open with his feelings, but Nakagawa is easily embarrassed of public displays of affection. Though they may be outwardly different, their feelings for each other are the same and their connection is such that they liken themselves to Dousaibou Seibutsu (Same-Cell Organisms). (Source: DMP) Contains the Stories: 1. Same Cell Organism 2. I Love You 3. Lullaby in My Hand 4. The Letter in the Attic 5. To Make Angel (Tenshi wo Tsukuru) (Prequel) 6. To Make Angel (Tenshi wo Tsukuru) (Sequel) 7. We Selfish Two (Source: MU)",
+            "background": null,
+            "authors": [
+                {
+                    "mal_id": 2867,
+                    "type": "people",
+                    "name": "Yumeka, Sumomo",
+                    "url": "https://myanimelist.net/people/2867/Sumomo_Yumeka"
+                }
+            ],
+            "serializations": [],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 242,
+            "url": "https://myanimelist.net/manga/242/Duetto",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/33239.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/33239t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/33239l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/33239.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/33239t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/33239l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Duetto"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Neighbor's Lie"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Natural"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Two Apart"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Somewhere Today"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Only In Those Eyes"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Secret"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Glasses + He"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Step By Step"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "デュエット"
+                }
+            ],
+            "title": "Duetto",
+            "title_english": null,
+            "title_japanese": "デュエット",
+            "title_synonyms": [
+                "The Neighbor's Lie",
+                "Natural",
+                "Two Apart",
+                "Somewhere Today",
+                "Only In Those Eyes",
+                "Secret",
+                "Glasses + He",
+                "Step By Step"
+            ],
+            "type": "Manga",
+            "chapters": 10,
+            "volumes": 1,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2004-11-12T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 12,
+                        "month": 11,
+                        "year": 2004
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "Nov 12, 2004"
+            },
+            "score": 6.48,
+            "scored": 6.48,
+            "scored_by": 348,
+            "rank": null,
+            "popularity": 18574,
+            "members": 675,
+            "favorites": 0,
+            "synopsis": "Every time Shinobu and Ei-ichi see each other on campus at the university they start fighting. But, it turns out they actually live together in an apartment, and when they’re there they act completely different. That is the relationship they keep a secret from the rest of the world… (Source: DMP)",
+            "background": null,
+            "authors": [
+                {
+                    "mal_id": 2238,
+                    "type": "people",
+                    "name": "Kujou, Aoi",
+                    "url": "https://myanimelist.net/people/2238/Aoi_Kujou"
+                }
+            ],
+            "serializations": [],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 49,
+                    "type": "manga",
+                    "name": "Erotica",
+                    "url": "https://myanimelist.net/manga/genre/49/Erotica"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 245,
+            "url": "https://myanimelist.net/manga/245/Fake_Fur",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/11238.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/11238t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/11238l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/11238.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/11238t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/11238l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Fake Fur"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "フェイクファー"
+                },
+                {
+                    "type": "English",
+                    "title": "Fake Fur"
+                }
+            ],
+            "title": "Fake Fur",
+            "title_english": "Fake Fur",
+            "title_japanese": "フェイクファー",
+            "title_synonyms": [],
+            "type": "Manga",
+            "chapters": 8,
+            "volumes": 1,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2004-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2004
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2004 to ?"
+            },
+            "score": 6.89,
+            "scored": 6.89,
+            "scored_by": 594,
+            "rank": null,
+            "popularity": 12244,
+            "members": 1284,
+            "favorites": 5,
+            "synopsis": "“When I was a junior in high school, I always thought about kissing someone. 15-year-old boys always pretend like that, right? One Valentine’s Day, I received a letter with chocolate…from a guy! The whole class was thrown into an uproar.” A collection of sweet stories like this one, Fake Fur takes you on the rocky road of love. (Source: DMP)",
+            "background": null,
+            "authors": [
+                {
+                    "mal_id": 2240,
+                    "type": "people",
+                    "name": "Yamagata, Satomi",
+                    "url": "https://myanimelist.net/people/2240/Satomi_Yamagata"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 138,
+                    "type": "manga",
+                    "name": "Hanaoto",
+                    "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 49,
+                    "type": "manga",
+                    "name": "Erotica",
+                    "url": "https://myanimelist.net/manga/genre/49/Erotica"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 246,
+            "url": "https://myanimelist.net/manga/246/Princess_Princess",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/186261.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186261t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186261l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/186261.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186261t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186261l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Princess Princess"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Train x Princess"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "The Day of Revolution Special"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "プリンセス・プリンセス"
+                },
+                {
+                    "type": "English",
+                    "title": "Princess Princess"
+                }
+            ],
+            "title": "Princess Princess",
+            "title_english": "Princess Princess",
+            "title_japanese": "プリンセス・プリンセス",
+            "title_synonyms": [
+                "Train x Princess",
+                "The Day of Revolution Special"
+            ],
+            "type": "Manga",
+            "chapters": 25,
+            "volumes": 5,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2002-08-01T00:00:00+00:00",
+                "to": "2006-04-01T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 8,
+                        "year": 2002
+                    },
+                    "to": {
+                        "day": 1,
+                        "month": 4,
+                        "year": 2006
+                    }
+                },
+                "string": "Aug 2002 to Apr 2006"
+            },
+            "score": 7.54,
+            "scored": 7.54,
+            "scored_by": 3412,
+            "rank": 2593,
+            "popularity": 2547,
+            "members": 7788,
+            "favorites": 108,
+            "synopsis": "Why is Toru Kouno receiving such an overly warm welcome at his new all boy's school? He has yet to discover the secret system called \"Hime (Princess)\" in effect at the school. Boys who are chosen have to dress up as a girl in every school event! Little does Kouno know that he would be the chosen one... (Source: DMP)",
+            "background": "Princess Princess was published in English by Digital Manga Publishing from December 12, 2006 to November 20, 2007.",
+            "authors": [
+                {
+                    "mal_id": 2005,
+                    "type": "people",
+                    "name": "Tsuda, Mikiyo",
+                    "url": "https://myanimelist.net/people/2005/Mikiyo_Tsuda"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 45,
+                    "type": "manga",
+                    "name": "Wings",
+                    "url": "https://myanimelist.net/manga/magazine/45/Wings"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 44,
+                    "type": "manga",
+                    "name": "Crossdressing",
+                    "url": "https://myanimelist.net/manga/genre/44/Crossdressing"
+                },
+                {
+                    "mal_id": 23,
+                    "type": "manga",
+                    "name": "School",
+                    "url": "https://myanimelist.net/manga/genre/23/School"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 25,
+                    "type": "manga",
+                    "name": "Shoujo",
+                    "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+                }
+            ]
+        },
+        {
+            "mal_id": 247,
+            "url": "https://myanimelist.net/manga/247/Princess_Princess_Plus",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/30581.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/30581t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/30581l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/30581.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/30581t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/30581l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Princess Princess Plus"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Princess Princess +"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "プリンセス・プリンセス＋"
+                },
+                {
+                    "type": "English",
+                    "title": "Princess Princess Plus"
+                }
+            ],
+            "title": "Princess Princess Plus",
+            "title_english": "Princess Princess Plus",
+            "title_japanese": "プリンセス・プリンセス＋",
+            "title_synonyms": [
+                "Princess Princess +"
+            ],
+            "type": "Manga",
+            "chapters": 6,
+            "volumes": 1,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2006-05-01T00:00:00+00:00",
+                "to": "2007-01-01T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 5,
+                        "year": 2006
+                    },
+                    "to": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2007
+                    }
+                },
+                "string": "May 2006 to Jan 2007"
+            },
+            "score": 7.18,
+            "scored": 7.18,
+            "scored_by": 518,
+            "rank": 6155,
+            "popularity": 9580,
+            "members": 1790,
+            "favorites": 1,
+            "synopsis": "The new school year is here! Fujimori Academy students Kiriya Matsuoka and Tomoe Izumi have been chosen as this year’s princesses, but it’s going to take a lot of hard work to bring them up to speed. Enter former princesses Kouno, Shihoudani and Yutaka for a bit of princess training! Although Matsuoka and Izumi seem willing and able to take over the job of dressing up as girls and cheering at school events, they’re not exactly what you’d call “friends.” In fact, they seem to be about as opposite as two people can get. This animosity spells trouble for a student body that depends on their princesses to give them a warm, glowy feeling all year long. Can President Sakamoto and the ex-princesses convince Matsuoka and Izumi to bond for the sake of the school? Or will it take more than a common experience to bring two very different people together? (Source: Dokidoki)",
+            "background": "Princess Princess Plus was published in English by Digital Manga Publishing on May 12, 2009.",
+            "authors": [
+                {
+                    "mal_id": 2005,
+                    "type": "people",
+                    "name": "Tsuda, Mikiyo",
+                    "url": "https://myanimelist.net/people/2005/Mikiyo_Tsuda"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 45,
+                    "type": "manga",
+                    "name": "Wings",
+                    "url": "https://myanimelist.net/manga/magazine/45/Wings"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 4,
+                    "type": "manga",
+                    "name": "Comedy",
+                    "url": "https://myanimelist.net/manga/genre/4/Comedy"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 44,
+                    "type": "manga",
+                    "name": "Crossdressing",
+                    "url": "https://myanimelist.net/manga/genre/44/Crossdressing"
+                },
+                {
+                    "mal_id": 23,
+                    "type": "manga",
+                    "name": "School",
+                    "url": "https://myanimelist.net/manga/genre/23/School"
+                }
+            ],
+            "demographics": [
+                {
+                    "mal_id": 25,
+                    "type": "manga",
+                    "name": "Shoujo",
+                    "url": "https://myanimelist.net/manga/genre/25/Shoujo"
+                }
+            ]
+        },
+        {
+            "mal_id": 251,
+            "url": "https://myanimelist.net/manga/251/G-senjou_no_Neko",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/186454.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186454t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186454l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/186454.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/186454t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/186454l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "G-senjou no Neko"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "G線上の猫"
+                },
+                {
+                    "type": "English",
+                    "title": "Il gatto sul G"
+                }
+            ],
+            "title": "G-senjou no Neko",
+            "title_english": "Il gatto sul G",
+            "title_japanese": "G線上の猫",
+            "title_synonyms": [],
+            "type": "Manga",
+            "chapters": 19,
+            "volumes": 3,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2002-05-01T00:00:00+00:00",
+                "to": "2007-09-01T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 5,
+                        "year": 2002
+                    },
+                    "to": {
+                        "day": 1,
+                        "month": 9,
+                        "year": 2007
+                    }
+                },
+                "string": "May 2002 to Sep 2007"
+            },
+            "score": 7.48,
+            "scored": 7.48,
+            "scored_by": 1352,
+            "rank": null,
+            "popularity": 5966,
+            "members": 3175,
+            "favorites": 31,
+            "synopsis": "Atsushi Ikeda, a kindhearted college student, tends abandoned animals and brings them inside his home. When he spots an injured high school student with a violin lying at his doorstep, he does not think twice about taking him in for the night. The fierce young man, introducing himself as Riya Narukawa, has no idea why he was unconscious in front of Atsushi's door but worries no further, as he claims that memory lapses are a common occurrence. The following day, when Riya gets a sudden headache while playing the violin for Atsushi, he professes that he ran away from home because his dead brother's spirit inside him has been forcing him to play the violin. Stunned by the sudden revelation, a concerned Atsushi discovers that Riya is a prodigious violinist and the only son of a famous musician. Worried that things are not matching up, he soon learns that Riya has a multiple personality disorder, causing him to invent a deceased younger brother whom he believes to be within his soul. Carrying the weight of other people's expectations for his talent, Riya tries to come to terms with the underlying problems behind his psychological complications, all while understanding what Atsushi means to him. [Written by MAL Rewrite]",
+            "background": "G-Senjou no Neko was published in English as Il gatto sul G by DMP.",
+            "authors": [
+                {
+                    "mal_id": 2243,
+                    "type": "people",
+                    "name": "Miyagi, Tooko",
+                    "url": "https://myanimelist.net/people/2243/Tooko_Miyagi"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 188,
+                    "type": "manga",
+                    "name": "Craft",
+                    "url": "https://myanimelist.net/manga/magazine/188/Craft"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                },
+                {
+                    "mal_id": 49,
+                    "type": "manga",
+                    "name": "Erotica",
+                    "url": "https://myanimelist.net/manga/genre/49/Erotica"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [
+                {
+                    "mal_id": 40,
+                    "type": "manga",
+                    "name": "Psychological",
+                    "url": "https://myanimelist.net/manga/genre/40/Psychological"
+                }
+            ],
+            "demographics": []
+        },
+        {
+            "mal_id": 254,
+            "url": "https://myanimelist.net/manga/254/Harem_de_Hitori",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/201062.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/201062t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/201062l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/2/201062.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/2/201062t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/2/201062l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Harem de Hitori"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Yoru no Circus"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Yoru no Minasoko"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Canaria no Bouken"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Michiru Hada"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Urumu Hada"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "ハレムでひとり"
+                },
+                {
+                    "type": "English",
+                    "title": "Alone in My King's Harem"
+                }
+            ],
+            "title": "Harem de Hitori",
+            "title_english": "Alone in My King's Harem",
+            "title_japanese": "ハレムでひとり",
+            "title_synonyms": [
+                "Yoru no Circus",
+                "Yoru no Minasoko",
+                "Canaria no Bouken",
+                "Michiru Hada",
+                "Urumu Hada"
+            ],
+            "type": "Manga",
+            "chapters": 6,
+            "volumes": 1,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2001-04-14T00:00:00+00:00",
+                "to": "2004-11-30T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 14,
+                        "month": 4,
+                        "year": 2001
+                    },
+                    "to": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2004
+                    }
+                },
+                "string": "Apr 14, 2001 to Nov 30, 2004"
+            },
+            "score": 6.98,
+            "scored": 6.98,
+            "scored_by": 1358,
+            "rank": null,
+            "popularity": 7074,
+            "members": 2621,
+            "favorites": 16,
+            "synopsis": "1. Harem de Hitori (Alone in My King's Harem) 2. Yoru no Circus 3. Yoru no Minasoko 4. Canaria no Bouken 5. Michiru Hada 6. Urumu Hada",
+            "background": "Harem de Hitori was published in English as Alone in My King's Harem by Digital Manga Publishing.",
+            "authors": [
+                {
+                    "mal_id": 2224,
+                    "type": "people",
+                    "name": "Hoshino, Lily",
+                    "url": "https://myanimelist.net/people/2224/Lily_Hoshino"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 126,
+                    "type": "manga",
+                    "name": "Magazine Be x Boy",
+                    "url": "https://myanimelist.net/manga/magazine/126/Magazine_Be_x_Boy"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                },
+                {
+                    "mal_id": 49,
+                    "type": "manga",
+                    "name": "Erotica",
+                    "url": "https://myanimelist.net/manga/genre/49/Erotica"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 255,
+            "url": "https://myanimelist.net/manga/255/Hero_Heel__Eiyuu_to_Akkan",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/193140.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/193140t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/193140l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/1/193140.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/1/193140t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/1/193140l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Hero Heel: Eiyuu to Akkan"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "HERO・HEEL 英雄と悪漢"
+                },
+                {
+                    "type": "English",
+                    "title": "Hero Heel"
+                }
+            ],
+            "title": "Hero Heel: Eiyuu to Akkan",
+            "title_english": "Hero Heel",
+            "title_japanese": "HERO・HEEL 英雄と悪漢",
+            "title_synonyms": [],
+            "type": "Manga",
+            "chapters": 14,
+            "volumes": 3,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2005-01-01T00:00:00+00:00",
+                "to": "2007-01-01T00:00:00+00:00",
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2005
+                    },
+                    "to": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2007
+                    }
+                },
+                "string": "2005 to 2007"
+            },
+            "score": 7.5,
+            "scored": 7.5,
+            "scored_by": 1247,
+            "rank": null,
+            "popularity": 7747,
+            "members": 2342,
+            "favorites": 24,
+            "synopsis": "Minami is a young actor who has been cast as the main character of a superhero TV program. Although he takes the job half-heartedly, thinking of it as a mere children's show, he's soon taken by the talent of his costar, Sawada. One day, Minami stumbles upon Sawada kissing a man! Deeply confused, he's unable to hide his growing attraction for him... A hero's love is always filled with trials! (Source: DMP)",
+            "background": "Hero Heel was published in English by DMP.",
+            "authors": [
+                {
+                    "mal_id": 2211,
+                    "type": "people",
+                    "name": "Tateno, Makoto",
+                    "url": "https://myanimelist.net/people/2211/Makoto_Tateno"
+                }
+            ],
+            "serializations": [],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 49,
+                    "type": "manga",
+                    "name": "Erotica",
+                    "url": "https://myanimelist.net/manga/genre/49/Erotica"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+        },
+        {
+            "mal_id": 256,
+            "url": "https://myanimelist.net/manga/256/Hoshigarimasen_Katsumade_wa",
+            "images": {
+                "jpg": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/31115.jpg",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/31115t.jpg",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/31115l.jpg"
+                },
+                "webp": {
+                    "image_url": "https://cdn.myanimelist.net/images/manga/3/31115.webp",
+                    "small_image_url": "https://cdn.myanimelist.net/images/manga/3/31115t.webp",
+                    "large_image_url": "https://cdn.myanimelist.net/images/manga/3/31115l.webp"
+                }
+            },
+            "approved": true,
+            "titles": [
+                {
+                    "type": "Default",
+                    "title": "Hoshigarimasen! Katsumade wa"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Hoshigarimasen Katsu Made wa"
+                },
+                {
+                    "type": "Synonym",
+                    "title": "Hoshigarimasen"
+                },
+                {
+                    "type": "Japanese",
+                    "title": "ほしがりません！勝つまでは"
+                },
+                {
+                    "type": "English",
+                    "title": "After I Win"
+                }
+            ],
+            "title": "Hoshigarimasen! Katsumade wa",
+            "title_english": "After I Win",
+            "title_japanese": "ほしがりません！勝つまでは",
+            "title_synonyms": [
+                "Hoshigarimasen Katsu Made wa",
+                "Hoshigarimasen"
+            ],
+            "type": "Manga",
+            "chapters": 6,
+            "volumes": 1,
+            "status": "Finished",
+            "publishing": false,
+            "published": {
+                "from": "2006-01-01T00:00:00+00:00",
+                "to": null,
+                "prop": {
+                    "from": {
+                        "day": 1,
+                        "month": 1,
+                        "year": 2006
+                    },
+                    "to": {
+                        "day": null,
+                        "month": null,
+                        "year": null
+                    }
+                },
+                "string": "2006"
+            },
+            "score": 7.31,
+            "scored": 7.31,
+            "scored_by": 1707,
+            "rank": null,
+            "popularity": 6084,
+            "members": 3112,
+            "favorites": 1,
+            "synopsis": "When nights grow lonely at the dorm, boys turn to naughty stuff. While pleasuring oneself is commonplace in a house full of teenage boys, Kasumi is nevertheless shocked when he catches his roommate Hiyori engrossed in self-indulgence. What’s more shocking is that Hiyori challenges Kasumi to stay and watch, that is, stay if Kasumi feels something for the older boy. Will he stay or go? Which option is more rewarding for Kasumi? (Source: Juné Manga)",
+            "background": null,
+            "authors": [
+                {
+                    "mal_id": 2245,
+                    "type": "people",
+                    "name": "Itsuki, Kaname",
+                    "url": "https://myanimelist.net/people/2245/Kaname_Itsuki"
+                }
+            ],
+            "serializations": [
+                {
+                    "mal_id": 138,
+                    "type": "manga",
+                    "name": "Hanaoto",
+                    "url": "https://myanimelist.net/manga/magazine/138/Hanaoto"
+                }
+            ],
+            "genres": [
+                {
+                    "mal_id": 28,
+                    "type": "manga",
+                    "name": "Boys Love",
+                    "url": "https://myanimelist.net/manga/genre/28/Boys_Love"
+                },
+                {
+                    "mal_id": 8,
+                    "type": "manga",
+                    "name": "Drama",
+                    "url": "https://myanimelist.net/manga/genre/8/Drama"
+                },
+                {
+                    "mal_id": 22,
+                    "type": "manga",
+                    "name": "Romance",
+                    "url": "https://myanimelist.net/manga/genre/22/Romance"
+                },
+                {
+                    "mal_id": 49,
+                    "type": "manga",
+                    "name": "Erotica",
+                    "url": "https://myanimelist.net/manga/genre/49/Erotica"
+                }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
         }
     ]
 }
